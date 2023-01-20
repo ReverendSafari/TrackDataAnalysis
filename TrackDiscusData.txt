@@ -1,0 +1,1455 @@
+        1      74.08      Jürgen Schult                  GER     11.05.60    1      Neubrandenburg           06.06.1986
+        2      73.88      Virgilijus Alekna              LTU     13.02.72    1      Kaunas                   03.08.2000
+        3      73.38      Gerd Kanter                    EST     06.05.79    1      Helsingborg              04.09.2006
+        4      72.02      Gerd Kanter                    EST     06.05.79    1cA    Salinas                  03.05.2007
+        5      71.88      Gerd Kanter                    EST     06.05.79    1c1    Salinas                  08.05.2008
+        6      71.86      Yuriy Dumchev                  RUS     05.08.58    1      Moskva                   29.05.1983
+        6      71.86      Daniel Ståhl                   SWE     27.08.92    1cA    Bottnaryd                29.06.2019
+        8      71.84      Piotr Malachowski              POL     07.06.83    1      Hengelo                  08.06.2013
+        9      71.70      Róbert Fazekas                 HUN     18.08.75    1      Szombathely              14.07.2002
+        10     71.64      Gerd Kanter                    EST     06.05.79    1      Kohila                   25.06.2009
+        11     71.56      Virgilijus Alekna              LTU     13.02.72    1      Kaunas                   25.07.2007
+        12     71.50      Lars Riedel                    GER     28.06.67    1      Wiesbaden                03.05.1997
+        13     71.47      Daniel Ståhl                   SWE     27.08.92    1      Uppsala                  21.06.2022
+        14     71.45      Gerd Kanter                    EST     06.05.79    1cA    Chula Vista              29.04.2010
+        15     71.40      Daniel Ståhl                   SWE     27.08.92    1      Bottnaryd                10.07.2021
+        16     71.37      Daniel Ståhl                   SWE     27.08.92    1      Sollentuna               10.08.2020
+        17     71.32      Ben Plucknett                  USA     13.04.54    1      Eugene                   04.06.1983
+        18     71.29      Daniel Ståhl                   SWE     27.08.92    1      Sollentuna               29.06.2017
+        19     71.27      Kristjan Ceh                   SLO     17.02.99    1      Birmingham               21.05.2022
+        20     71.26      John Powell                    USA     25.06.47    1      San José                 09.06.1984
+        20     71.26      Richard Bruch                  SWE     02.07.46    1      Malmö                    15.11.1984
+        20     71.26      Imrich Bugár                   CZE     14.04.55    1      San José                 25.05.1985
+        23     71.25      Róbert Fazekas                 HUN     18.08.75    1      Madrid                   21.09.2002
+        23     71.25      Virgilijus Alekna              LTU     13.02.72    1      Turnov                   20.05.2008
+        25     71.18      Arthur Burns                   USA     19.07.54    1      San José                 19.07.1983
+        26     71.16      Wolfgang Schmidt               GER     16.01.54    1      Berlin                   09.08.1978
+        27     71.14      Ben Plucknett                  USA     13.04.54    1      Berkeley                 12.06.1983
+        27     71.14      Anthony Washington             USA     16.01.66    1      Salinas                  22.05.1996
+        29     71.13      Kristjan Ceh                   SLO     17.02.99    1      Eugene                   19.07.2022
+        30     71.12      Virgilijus Alekna              LTU     13.02.72    1      Zürich                   11.08.2000
+        31     71.08      Virgilijus Alekna              LTU     13.02.72    1      Réthymno                 21.07.2006
+        32     71.06      Luis Mariano Delís             CUB     06.12.57    1      La Habana                21.05.1983
+        32     71.06      Lars Riedel                    GER     28.06.67    1      Zürich                   14.08.1996
+        34     71.00      Richard Bruch                  SWE     02.07.46    1      Malmö                    14.10.1984
+        35     70.99      Virgilijus Alekna              LTU     13.02.72    1      Stellenbosch             30.03.2001
+        36     70.98      Mac Wilkins                    USA     15.11.50    1      Helsinki                 09.07.1980
+        36     70.98      Arthur Burns                   USA     19.07.54    1      Eugene                   21.07.1984
+        38     70.97      Virgilijus Alekna              LTU     13.02.72    1      Réthymno                 23.06.2004
+        39     70.93      Gerd Kanter                    EST     06.05.79    1      Helsingborg              28.06.2007
+        40     70.92      Wolfgang Schmidt               GER     16.01.54    1      Norden                   09.09.1989
+        40     70.92      Gerd Kanter                    EST     06.05.79    2      Kaunas                   25.07.2007
+        42     70.89      Daniel Ståhl                   SWE     27.08.92    1      Varberg                  15.07.2019
+        43     70.86      Mac Wilkins                    USA     15.11.50    1      San José                 01.05.1976
+        43     70.86      Virgilijus Alekna              LTU     13.02.72    1      Réthymno                 14.07.2008
+        45     70.84      Gerd Kanter                    EST     06.05.79    1      Chula Vista              28.04.2009
+        46     70.83      Róbert Fazekas                 HUN     18.08.75    2      Réthymno                 23.06.2004
+        47     70.82      Ben Plucknett                  USA     13.04.54    1      Salinas                  01.06.1983
+        47     70.82      Aleksander Tammert             EST     02.02.73    1      Denton                   15.04.2006
+        49     70.78      Róbert Fazekas                 HUN     18.08.75    1      Budapest                 10.05.2003
+        49     70.78      Fedrick Dacres                 JAM     28.02.94    1      Rabat                    16.06.2019
+        51     70.72      Imrich Bugár                   CZE     14.04.55    1      Schwechat                18.06.1983
+        51     70.72      Kristjan Ceh                   SLO     17.02.99    1      Roma                     09.06.2022
+        53     70.67      Virgilijus Alekna              LTU     13.02.72    1      Madrid                   16.07.2005
+        54     70.66      Mac Wilkins                    USA     15.11.50    1      Walnut                   16.06.1979
+        54     70.66      Robert Harting                 GER     18.10.84    1      Turnov                   22.05.2012
+        56     70.62      Daniel Ståhl                   SWE     27.08.92    1      Turku                    14.06.2022
+        57     70.61      Virgilijus Alekna              LTU     13.02.72    1      Tallinn                  16.09.2005
+        58     70.60      Lars Riedel                    GER     28.06.67    1      Berlin                   30.08.1996
+        59     70.58      Luis Mariano Delís             CUB     06.12.57    1      Salinas                  19.05.1982
+        59     70.58      Virgilijus Alekna              LTU     13.02.72    1      Réthymno                 10.07.2005
+        61     70.56      Daniel Ståhl                   SWE     27.08.92    1      Ad-Dawhah                03.05.2019
+        62     70.55      Daniel Ståhl                   SWE     27.08.92    1      Kuortane                 26.06.2021
+        63     70.54      Dmitriy Shevchenko             RUS     13.05.68    1      Krasnodar                07.05.2002
+        64     70.53      Virgilijus Alekna              LTU     13.02.72    1      Lausanne                 05.07.2005
+        65     70.51      Virgilijus Alekna              LTU     13.02.72    1      Oslo                     15.06.2007
+        66     70.48      Mac Wilkins                    USA     15.11.50    1      San José                 29.04.1978
+        66     70.48      Mac Wilkins                    USA     15.11.50    1      Eugene                   31.05.1978
+        66     70.48      Richard Bruch                  SWE     02.07.46    1      Malmö                    12.09.1984
+        69     70.46      Jürgen Schult                  GER     11.05.60    1      Berlin                   13.09.1988
+        70     70.44      Mac Wilkins                    USA     15.11.50    2      San José                 09.06.1984
+        71     70.43      Virgilijus Alekna              LTU     13.02.72    1      Athínai                  02.07.2007
+        72     70.42      Simon Pettersson               SWE     03.01.94    1      Norrköping               06.08.2022
+        73     70.39      Virgilijus Alekna              LTU     13.02.72    1      Tartu                    11.06.2000
+        74     70.38      Jay Silvester                  USA     27.08.37    1      Lancester                16.05.1971
+        74     70.38      Gerd Kanter                    EST     06.05.79    1      Chula Vista              02.05.2008
+        76     70.36      Mac Wilkins                    USA     15.11.50    1      Modesto                  14.05.1983
+        76     70.36      Gerd Kanter                    EST     06.05.79    1      Kópavogur                08.07.2007
+        78     70.35      Kristjan Ceh                   SLO     17.02.99    2      Kuortane                 26.06.2021
+        79     70.32      Frantz Kruger                  RSA     22.05.75    1      Salôn-de-Provence        26.05.2002
+        79     70.32      Gerd Kanter                    EST     06.05.79    1      Helsingborg              06.09.2008
+        81     70.31      Robert Harting                 GER     18.10.84    1cA    Halle                    19.05.2012
+        82     70.30      Yuriy Dumchev                  RUS     05.08.58    1      Bryansk                  31.07.1988
+        83     70.29      Mauricio Ortega                COL     04.08.94    1      Lovelhe                  22.07.2020
+        83     70.29      Daniel Ståhl                   SWE     27.08.92    2      Norrköping               06.08.2022
+        85     70.28      Virgilijus Alekna              LTU     13.02.72    1      Klaipeda                 23.06.2012
+        86     70.26      Imrich Bugár                   CZE     14.04.55    1      Cagliari                 08.09.1984
+        87     70.25      Daniel Ståhl                   SWE     27.08.92    1      Helsingborg              21.06.2020
+        88     70.24      Wolfgang Schmidt               GER     16.01.54    1      Potsdam                  18.08.1978
+        88     70.24      Imrich Bugár                   CZE     14.04.55    1      Nitra                    26.08.1984
+        90     70.21      Virgilijus Alekna              LTU     13.02.72    1      Saint-Denis              23.07.2004
+        91     70.20      Luis Mariano Delís             CUB     06.12.57    1      La Habana                08.08.1982
+        92     70.17      Virgilijus Alekna              LTU     13.02.72    1      Helsinki                 07.08.2005
+        93     70.16      Gerd Kanter                    EST     06.05.79    1      Helsingborg              11.08.2007
+        94     70.12      Gerd Kanter                    EST     06.05.79    1      Valga                    05.06.2007
+        95     70.10      Mac Wilkins                    USA     15.11.50    1      Westwood                 11.06.1976
+        95     70.10      Gerd Kanter                    EST     06.05.79    1c2    Chula Vista              28.04.2005
+        95     70.10      Virgilijus Alekna              LTU     13.02.72    1      Tallinn                  22.09.2006
+        98     70.06      Imrich Bugár                   CZE     14.04.55    1      Zaragoza                 22.05.1983
+        98     70.06      Romas Ubartas                  LTU     26.05.60    1      Smalininkai              08.05.1988
+        100    70.04      Jay Silvester                  USA     27.08.37    1      Ystad                    10.06.1971
+        101    70.02      Mac Wilkins                    USA     15.11.50    1      Reykjavík                17.08.1978
+        101    70.02      Kristjan Ceh                   SLO     17.02.99    1      Stockholm                30.06.2022
+        103    70.01      Virgilijus Alekna              LTU     13.02.72    1      Vilnius                  18.04.2007
+        104    70.00      Mac Wilkins                    USA     15.11.50    1      Nice                     16.08.1976
+        104    70.00      Juan Martinez Brito            CUB     17.05.58    2      La Habana                21.05.1983
+        104    70.00      Luis Mariano Delís             CUB     06.12.57    1      La Habana                31.03.1985
+        104    70.00      Róbert Fazekas                 HUN     18.08.75    1      Réthymno                 06.07.2003
+        108    69.98      John Powell                    USA     25.06.47    1      Modesto                  16.05.1981
+        109    69.97      Virgilijus Alekna              LTU     13.02.72    1cA    Halle                    19.05.2007
+        109    69.97      Frantz Kruger                  FIN     22.05.75    1      Helsingborg              15.09.2007
+        111    69.96      Arthur Burns                   USA     19.07.54    1      Hayward                  26.06.1982
+        111    69.96      Frantz Kruger                  RSA     22.05.75    2      Stellenbosch             30.03.2001
+        113    69.95      Virgilijus Alekna              LTU     13.02.72    1      Zürich                   17.08.2001
+        113    69.95      Zoltán Kövágó                  HUN     10.04.79    1      Salôn-de-Provence        25.05.2006
+        113    69.95      Gerd Kanter                    EST     06.05.79    1      Helsingborg              30.07.2008
+        116    69.94      Imrich Bugár                   CZE     14.04.55    1      Bruxelles                24.08.1984
+        116    69.94      Daniel Ståhl                   SWE     27.08.92    2      Rabat                    16.06.2019
+        118    69.92      Imrich Bugár                   CZE     14.04.55    1      Brno                     22.08.1983
+        119    69.91      John Godina                    USA     31.05.72    1      Salinas                  19.05.1998
+        119    69.91      Gerd Kanter                    EST     06.05.79    1      Tallinn                  31.08.2008
+        119    69.91      Robert Harting                 GER     18.10.84    2      Hengelo                  08.06.2013
+        122    69.90      Virgilijus Alekna              LTU     13.02.72    1      Klaipeda                 13.07.2007
+        122    69.90      Jason Young                    USA     27.05.81    1      Lubbock                  26.03.2010
+        124    69.89      Virgilijus Alekna              LTU     13.02.72    1      Athínai                  23.08.2004
+        124    69.89      Daniel Ståhl                   SWE     27.08.92    1      Malmö                    26.06.2019
+        126    69.88      Arthur Burns                   USA     19.07.54    2      Salinas                  01.06.1983
+        126    69.88      Imrich Bugár                   CZE     14.04.55    1      Praha                    08.08.1984
+        128    69.86      Richard Bruch                  SWE     02.07.46    1      Ystad                    27.10.1984
+        128    69.86      Gerd Kanter                    EST     06.05.79    1      Chula Vista              05.05.2009
+        130    69.84      Lars Riedel                    GER     28.06.67    1      Bellinzona               12.07.1996
+        130    69.84      Virgilijus Alekna              LTU     13.02.72    1      Vilnius                  12.07.2008
+        132    69.83      Gerd Kanter                    EST     06.05.79    1cA    Chula Vista              06.05.2010
+        132    69.83      Piotr Malachowski              POL     07.06.83    1      Gateshead                10.07.2010
+        134    69.81      Mykolas Alekna                 LTU     18.09.02    2      Stockholm                30.06.2022
+        135    69.80      Luis Mariano Delís             CUB     06.12.57    1      Rhede                    05.07.1985
+        136    69.78      Mykolas Alekna                 LTU     18.09.02    1      München                  19.08.2022
+        137    69.77      Róbert Fazekas                 HUN     18.08.75    1      Zürich                   06.08.2004
+        138    69.75      Frantz Kruger                  RSA     22.05.75    1      Bloemfontein             15.09.2000
+        138    69.75      Robert Harting                 GER     18.10.84    1      Eugene                   01.06.2013
+        140    69.74      Mac Wilkins                    USA     15.11.50    1      Modesto                  17.05.1980
+        140    69.74      Luis Mariano Delís             CUB     06.12.57    1      La Habana                19.05.1984
+        140    69.74      Jürgen Schult                  GER     11.05.60    1      Berlin                   22.09.1985
+        140    69.74      Virgilijus Alekna              LTU     13.02.72    1      Chemnitz                 22.07.2000
+        144    69.73      Virgilijus Alekna              LTU     13.02.72    1      Vilnius                  10.06.2006
+        145    69.72      Lars Riedel                    GER     28.06.67    1      Berlin                   01.09.2000
+        145    69.72      Lars Riedel                    GER     28.06.67    1      Edmonton                 08.08.2001
+        145    69.72      Daniel Ståhl                   SWE     27.08.92    1      Eskilstuna               26.08.2018
+        148    69.71      Róbert Fazekas                 HUN     18.08.75    1      Budapest                 04.05.2002
+        148    69.71      Daniel Ståhl                   SWE     27.08.92    1      Helsingborg              22.05.2021
+        150    69.70      Gejza Valent                   CZE     03.10.53    2      Nitra                    26.08.1984
+        150    69.70      Virgilijus Alekna              LTU     13.02.72    2      Berlin                   01.09.2000
+        150    69.70      Gerd Kanter                    EST     06.05.79    1cA    Los Realejos             15.03.2009
+        153    69.69      Virgilijus Alekna              LTU     13.02.72    1      Saint-Denis              26.08.2003
+        153    69.69      Virgilijus Alekna              LTU     13.02.72    1      Jurbarkas                30.09.2006
+        153    69.69      Zoltán Kovagó                  HUN     10.04.79    1      Shanghai                 23.05.2010
+        153    69.69      Robert Harting                 GER     18.10.84    1      Neubrandenburg           28.08.2010
+        157    69.68      Richard Bruch                  SWE     02.07.46    1      Ystad                    21.10.1984
+        157    69.68      Kristjan Ceh                   SLO     17.02.99    1      Rabat                    05.06.2022
+        159    69.67      Virgilijus Alekna              LTU     13.02.72    1      Réthymno                 18.07.2007
+        159    69.67      Fedrick Dacres                 JAM     28.02.94    1      Stockholm                10.06.2018
+        159    69.67      Fedrick Dacres                 JAM     28.02.94    1      Kingston                 08.02.2020
+        162    69.66      Virgilijus Alekna              LTU     13.02.72    1      Johannesburg             12.09.1998
+        163    69.62      Knut Hjeltnes                  NOR     08.12.51    2      San José                 25.05.1985
+        163    69.62      Timo Tompuri                   FIN     09.06.69    1      Helsingborg              08.07.2001
+        163    69.62      Róbert Fazekas                 HUN     18.08.75    1      Sevilla                  07.06.2003
+        163    69.62      Virgilijus Alekna              LTU     13.02.72    1cA    Halle                    20.05.2006
+        163    69.62      Gerd Kanter                    EST     06.05.79    2      Turnov                   20.05.2008
+        168    69.60      Wolfgang Schmidt               GER     16.01.54    1      Dresden                  13.06.1981
+        168    69.60      Imrich Bugár                   CZE     14.04.55    1      Znojmo                   15.09.1984
+        168    69.60      Juan José Caicedo              ECU     27.07.92    2      Lovelhe                  22.07.2020
+        171    69.59      Gerd Kanter                    EST     06.05.79    1      Tallinn                  30.08.2006
+        171    69.59      Andrius Gudzius                LTU     14.02.91    2      Stockholm                10.06.2018
+        173    69.58      Luis Mariano Delís             CUB     06.12.57    1      Modesto                  15.05.1982
+        173    69.58      Luis Mariano Delís             CUB     06.12.57    1      Rhede                    01.09.1982
+        173    69.58      Gerd Kanter                    EST     06.05.79    1      Tallinn                  21.07.2006
+        176    69.57      Virgilijus Alekna              LTU     13.02.72    1      Hengelo                  29.05.2005
+        176    69.57      Daniel Ståhl                   SWE     27.08.92    1      Stockholm                30.05.2019
+        178    69.56      Luis Mariano Delís             CUB     06.12.57    1      La Habana                19.03.1985
+        179    69.54      Wolfgang Schmidt               GER     16.01.54    1      Warszawa                 13.08.1978
+        179    69.54      Lars Riedel                    GER     28.06.67    1      Duisburg                 12.06.1996
+        181    69.53      Róbert Fazekas                 HUN     18.08.75    1      Nitra                    24.08.2002
+        181    69.53      Gerd Kanter                    EST     06.05.79    1      Valga                    15.06.2008
+        183    69.52      Jürgen Schult                  GER     11.05.60    1      Neubrandenburg           11.06.1987
+        183    69.52      Kristjan Ceh                   SLO     17.02.99    1      Ptuj                     27.05.2021
+        185    69.50      Knut Hjeltnes                  NOR     08.12.51    1      Modesto                  12.05.1979
+        185    69.50      Lars Riedel                    GER     28.06.67    1cA    Halle                    24.05.2003
+        185    69.50      Mario Pestano                  ESP     08.04.78    1      Santa Cruz de Tenerife   27.07.2008
+        185    69.50      Zoltán Kövágó                  HUN     10.04.79    1      Budapest                 30.07.2011
+        189    69.48      Lars Riedel                    GER     28.06.67    1      Frankfurt                29.06.1997
+        189    69.48      Simon Pettersson               SWE     03.01.94    1      Vöxjö                    29.05.2021
+        191    69.47      Virgilijus Alekna              LTU     13.02.72    1      Ad-Dawhah                12.05.2006
+        191    69.47      Gerd Kanter                    EST     06.05.79    1      La Jolla                 12.05.2009
+        193    69.46      Mac Wilkins                    USA     15.11.50    1      Westwood                 07.05.1978
+        193    69.46      Al Oerter                      USA     19.09.36    1      Wichita                  31.05.1980
+        193    69.46      Mac Wilkins                    USA     15.11.50    1      Stockholm                07.07.1980
+        193    69.46      Luis Mariano Delís             CUB     06.12.57    1      Edmonton                 08.07.1983
+        197    69.44      Mac Wilkins                    USA     15.11.50    1      Reykjavík                18.08.1978
+        197    69.44      Georgiy Kolnootchenko          BLR     07.05.59    1      Indianapolis             03.07.1982
+        199    69.43      Virgilijus Alekna              LTU     13.02.72    1      Bydgoszcz                10.06.2007
+        199    69.43      Robert Harting                 GER     18.10.84    1      Berlin                   19.08.2009
+        201    69.42      Mac Wilkins                    USA     15.11.50    2      Eugene                   21.07.1984
+        201    69.42      Luis Mariano Delís             CUB     06.12.57    1      La Habana                14.03.1985
+        201    69.42      Virgilijus Alekna              LTU     13.02.72    1c2    Rüdlingen                19.08.2001
+        201    69.42      Daniel Ståhl                   SWE     27.08.92    1      Stockholm                25.08.2019
+        205    69.41      Virgilijus Alekna              LTU     13.02.72    1      Nürnberg                 25.06.2000
+        206    69.40      Art Swarts                     USA     14.02.45    1      Scotch Plains            08.12.1979
+        206    69.40      Lars Riedel                    GER     28.06.67    1      Atlanta                  31.07.1996
+        206    69.40      Virgilijus Alekna              LTU     13.02.72    2      Edmonton                 08.08.2001
+        209    69.39      Róbert Fazekas                 HUN     18.08.75    1cA    Salôn-de-Provence        29.05.2003
+        210    69.38      Richard Bruch                  SWE     02.07.46    1      Malmö                    07.10.1984
+        210    69.38      Lars Riedel                    GER     28.06.67    1      Wiesbaden                13.05.2006
+        212    69.36      Luis Mariano Delís             CUB     06.12.57    1      Soquel                   22.05.1982
+        212    69.36      Ben Plucknett                  USA     13.04.54    1      Walnut                   24.04.1983
+        212    69.36      Imrich Bugár                   CZE     14.04.55    1      Ohrady                   24.08.1983
+        212    69.36      Gejza Valent                   CZE     03.10.53    1      Zaragoza                 03.06.1984
+        212    69.36      Mike Buncic                    USA     25.07.62    1      Fresno                   06.04.1991
+        212    69.36      Virgilijus Alekna              LTU     13.02.72    1      Athínai                  03.07.2006
+        218    69.35      Gerd Kanter                    EST     06.05.79    2      Tallinn                  16.09.2005
+        218    69.35      Guðni Valur Guðnason           ISL     11.10.95    1      Reykjavik                16.09.2020
+        220    69.34      Jürgen Schult                  GER     11.05.60    1      Berlin                   25.08.1987
+        220    69.34      Lars Riedel                    GER     28.06.67    1      Nürnberg                 13.06.1997
+        220    69.34      Virgilijus Alekna              LTU     13.02.72    1      Tartu                    19.06.2001
+        223    69.32      Juan Martinez Brito            CUB     17.05.58    1      Madrid                   14.06.1985
+        223    69.32      Luis Mariano Delís             CUB     06.12.57    2      Madrid                   14.06.1985
+        223    69.32      Juan Martinez Brito            CUB     17.05.58    2      Rhede                    05.07.1985
+        223    69.32      Ehsan Hadadi                   IRI     21.01.85    1      Tallinn                  04.06.2008
+        227    69.31      Daniel Ståhl                   SWE     27.08.92    1      Bruxelles                01.09.2021
+        228    69.30      Virgilijus Alekna              LTU     13.02.72    1      Sydney                   25.09.2000
+        228    69.30      Virgilijus Alekna              LTU     13.02.72    1      Tallinn                  15.08.2006
+        228    69.30      Andrius Gudzius                LTU     14.02.91    1      Chorzów                  08.06.2018
+        231    69.28      Vladimir Dubrovshchik          BLR     07.01.72    1      Stayki                   03.06.2000
+        231    69.28      Piotr Malachowski              POL     07.06.83    1cA    Halle                    17.05.2014
+        233    69.27      Daniel Ståhl                   SWE     27.08.92    1      Selfoss                  28.05.2022
+        233    69.27      Mykolas Alekna                 LTU     18.09.02    2      Eugene                   19.07.2022
+        235    69.26      Ken Stadel                     USA     19.02.52    2      Walnut                   16.06.1979
+        235    69.26      Luis Mariano Delís             CUB     06.12.57    1      La Habana                18.05.1983
+        235    69.26      Luis Mariano Delís             CUB     06.12.57    1      Bratislava               03.06.1983
+        235    69.26      Imrich Bugár                   CZE     14.04.55    1      Westwood                 05.05.1984
+        239    69.25      Virgilijus Alekna              LTU     13.02.72    1      Kaunas                   25.07.2004
+        240    69.24      Lars Riedel                    GER     28.06.67    1      Stendal                  30.08.1997
+        240    69.24      Gerd Kanter                    EST     06.05.79    1      Tallinn                  18.09.2008
+        242    69.23      Daniel Ståhl                   SWE     27.08.92    1      Karlstad                 31.08.2019
+        242    69.23      Daniel Ståhl                   SWE     27.08.92    1      Turku                    11.08.2020
+        244    69.22      Art Swarts                     USA     14.02.45    2      Wichita                  31.05.1980
+        244    69.22      Virgilijus Alekna              LTU     13.02.72    1      Sheffield                21.08.2005
+        244    69.22      Daniel Ståhl                   SWE     27.08.92    1cA    Bottnaryd                25.06.2022
+        247    69.21      Virgilijus Alekna              LTU     13.02.72    1      Bergen                   11.06.2004
+        247    69.21      Virgilijus Alekna              LTU     13.02.72    2      Zürich                   06.08.2004
+        247    69.21      Virgilijus Alekna              LTU     13.02.72    1      Kaunas                   08.07.2005
+        247    69.21      Andrius Gudzius                LTU     14.02.91    1      London                   05.08.2017
+        251    69.20      Mac Wilkins                    USA     15.11.50    1      Westwood                 10.06.1977
+        251    69.20      Luis Mariano Delís             CUB     06.12.57    1      Koblenz                  25.08.1982
+        251    69.20      Mac Wilkins                    USA     15.11.50    1      San José                 26.05.1984
+        251    69.20      Luis Mariano Delís             CUB     06.12.57    1      La Habana                24.03.1985
+        251    69.20      Daniel Ståhl                   SWE     27.08.92    1      Tampere                  05.09.2020
+        251    69.20      Kristjan Ceh                   SLO     17.02.99    1      Ptuj                     24.05.2022
+        257    69.19      Daniel Ståhl                   SWE     27.08.92    2      London                   05.08.2017
+        258    69.18      Mac Wilkins                    USA     15.11.50    1      Walnut                   24.04.1976
+        258    69.18      Imrich Bugár                   CZE     14.04.55    1      Potsdam                  21.07.1984
+        258    69.18      Jürgen Schult                  GER     11.05.60    1      Potsdam                  21.08.1987
+        258    69.18      Lars Riedel                    GER     28.06.67    1      Jena                     05.06.1999
+        262    69.17      Daniel Ståhl                   SWE     27.08.92    1      Stockholm                23.08.2020
+        263    69.16      Yuriy Dumchev                  RUS     05.08.58    1      Moskva                   02.05.1982
+        263    69.16      Luis Mariano Delís             CUB     06.12.57    1      Potsdam                  09.06.1983
+        265    69.15      Piotr Malachowski              POL     07.06.83    2      Berlin                   19.08.2009
+        266    69.14      Róbert Fazekas                 HUN     18.08.75    1      Zürich                   15.08.2003
+        266    69.14      Virgilijus Alekna              LTU     13.02.72    1      Kaunas                   04.06.2004
+        268    69.13      Róbert Fazekas                 HUN     18.08.75    1      Ad-Dawhah                15.05.2002
+        268    69.13      Andrius Gudzius                LTU     14.02.91    1      Tartu                    19.05.2018
+        270    69.12      Mac Wilkins                    USA     15.11.50    1      Westwood                 15.05.1983
+        270    69.12      Arthur Burns                   USA     19.07.54    1      San José                 05.07.1983
+        270    69.12      Lars Riedel                    GER     28.06.67    1      Oslo                     05.07.1996
+        270    69.12      Ehsan Hadadi                   IRI     21.01.85    1      Berlin                   01.06.2008
+        270    69.12      Virgilijus Alekna              LTU     13.02.72    2      Berlin                   01.06.2008
+        270    69.12      Daniel Ståhl                   SWE     27.08.92    1      Sollentuna               18.06.2019
+        276    69.11      Robert Harting                 GER     18.10.84    1      Moskva                   13.08.2013
+        276    69.11      Daniel Ståhl                   SWE     27.08.92    1      Karlstad                 25.07.2018
+        276    69.11      Daniel Ståhl                   SWE     27.08.92    2      Vöxjö                    29.05.2021
+        276    69.11      Daniel Ståhl                   SWE     27.08.92    1      Chula Vista              07.04.2022
+        276    69.11      Lukas Weißhaidinger            AUT     20.02.92    1      Eisenstadt               02.06.2022
+        281    69.10      Richard Bruch                  SWE     02.07.46    1      Malmö                    12.07.1984
+        281    69.10      Arthur Burns                   USA     19.07.54    3      San José                 25.05.1985
+        281    69.10      Gerd Kanter                    EST     06.05.79    1      Réthymno                 20.07.2009
+        284    69.09      Daniel Ståhl                   SWE     27.08.92    1      Stockholm                05.09.2021
+        285    69.08      John Powell                    USA     25.06.47    1      Long Beach               04.05.1975
+        285    69.08      Mac Wilkins                    USA     15.11.50    1      Zürich                   18.08.1976
+        285    69.08      Wolfgang Schmidt               GER     16.01.54    1      Berlin                   07.07.1979
+        285    69.08      Luis Mariano Delís             CUB     06.12.57    1      Barcelona                08.07.1985
+        285    69.08      Georgiy Kolnootchenko          BLR     07.05.59    1      Canberra                 04.10.1985
+        285    69.08      Lars Riedel                    GER     28.06.67    1      Bellinzona               20.06.1995
+        285    69.08      Lars Riedel                    GER     28.06.67    1      Monaco                   25.07.1995
+        285    69.08      Anthony Washington             USA     16.01.66    2      Zürich                   14.08.1996
+        285    69.08      Anthony Washington             USA     16.01.66    1      Sevilla                  24.08.1999
+        285    69.08      Virgilijus Alekna              LTU     13.02.72    1      Vilnius                  12.04.2006
+        285    69.08      Gerd Kanter                    EST     06.05.79    1      Tartu                    05.07.2007
+        296    69.06      Wolfgang Schmidt               GER     16.01.54    1      Stockholm                07.07.1981
+        296    69.06      Róbert Fazekas                 HUN     18.08.75    1      Szombathely              10.08.2003
+        296    69.06      Virgilijus Alekna              LTU     13.02.72    1      Vilnius                  22.04.2005
+        296    69.06      Kristjan Ceh                   SLO     17.02.99    q      München                  17.08.2022
+        300    69.05      John Godina                    USA     31.05.72    1cA    Salinas                  25.05.1999
+        300    69.05      Gerd Kanter                    EST     06.05.79    1      Tartu                    01.08.2006
+        302    69.04      Jürgen Schult                  GER     11.05.60    1      Halle                    10.05.1992
+        302    69.04      Virgilijus Alekna              LTU     13.02.72    1      Villeneuve d'Ascq        09.06.2012
+        302    69.04      Andrius Gudzius                LTU     14.02.91    1      Oslo                     07.06.2018
+        302    69.04      Lukas Weißhaidinger            AUT     20.02.92    1      Eisenstadt               09.06.2021
+        306    69.03      Virgilijus Alekna              LTU     13.02.72    1      Oordegem                 02.09.2004
+        307    69.02      Luis Mariano Delís             CUB     06.12.57    1      Sofia                    16.06.1984
+        307    69.02      Imrich Bugár                   CZE     14.04.55    1      Westwood                 18.05.1985
+        307    69.02      Lars Riedel                    GER     28.06.67    1      Köln                     23.06.1996
+        307    69.02      Lars Riedel                    GER     28.06.67    1      Troisdorf                24.08.1996
+        307    69.02      Róbert Fazekas                 HUN     18.08.75    1      Debrecen                 26.07.2002
+        307    69.02      Robert Harting                 GER     18.10.84    1      Berlin                   01.09.2013
+        313    69.01      Lars Riedel                    GER     28.06.67    1cA    Wiesbaden                08.05.1999
+        313    69.01      Róbert Fazekas                 HUN     18.08.75    2      Saint-Denis              26.08.2003
+        315    69.00      Lars Riedel                    GER     28.06.67    1      Rhede                    30.07.1995
+        315    69.00      Mykolas Alekna                 LTU     18.09.02    1      Stauliai                 25.06.2022
+        317    68.99      Robert Harting                 GER     18.10.84    1cA    Halle                    21.05.2011
+        318    68.98      Wolfgang Schmidt               GER     16.01.54    1      Dresden                  12.08.1978
+        318    68.98      Georgiy Kolnootchenko          BLR     07.05.59    1      Tokyo                    22.09.1985
+        318    68.98      Mike Buncic                    USA     25.07.62    1      Palo Alto                20.06.1987
+        318    68.98      Andrius Gudzius                LTU     14.02.91    1      Vilnius                  24.04.2018
+        318    68.98      Lukas Weißhaidinger            AUT     20.02.92    1      Rehlingen                20.05.2018
+        323    68.97      Gerd Kanter                    EST     06.05.79    1      Helsingborg              05.09.2009
+        323    68.97      Robert Harting                 GER     18.10.84    1      Daegu                    30.08.2011
+        323    68.97      Daniel Ståhl                   SWE     27.08.92    1      Sollentuna               12.06.2022
+        326    68.96      Arthur Burns                   USA     19.07.54    1      Berkeley                 14.07.1984
+        326    68.96      Fedrick Dacres                 JAM     28.02.94    2      Stockholm                30.05.2019
+        328    68.95      Virgilijus Alekna              LTU     13.02.72    2      Zürich                   15.08.2003
+        328    68.95      Virgilijus Alekna              LTU     13.02.72    1      Kaunas                   01.07.2006
+        330    68.94      Romas Ubartas                  LTU     26.05.60    1      Smolininkay              05.05.1990
+        330    68.94      Anthony Washington             USA     16.01.66    1c2    Tucson                   08.05.1999
+        330    68.94      Adam Setliff                   USA     15.12.69    1      Atascadero               25.07.2001
+        330    68.94      Virgilijus Alekna              LTU     13.02.72    1      Tartu                    11.06.2005
+        330    68.94      Gerd Kanter                    EST     06.05.79    1      Osaka                    28.08.2007
+        330    68.94      Virgilijus Alekna              LTU     13.02.72    2      Réthymno                 20.07.2009
+        330    68.94      Zoltán Kovagó                  HUN     10.04.79    1      Budapest                 14.05.2010
+        330    68.94      Piotr Malachowski              POL     07.06.83    2cA    Halle                    19.05.2012
+        338    68.93      Zoltán Kovagó                  HUN     10.04.79    3      Zürich                   06.08.2004
+        338    68.93      Daniel Ståhl                   SWE     27.08.92    1      Karlstad                 03.07.2019
+        340    68.92      Wolfgang Schmidt               GER     16.01.54    1      Berlin                   31.05.1978
+        340    68.92      Arthur Burns                   USA     19.07.54    2      Berkeley                 12.06.1983
+        340    68.92      Mike Buncic                    USA     25.07.62    1      Salinas                  25.05.1988
+        343    68.91      Ian Waltz                      USA     15.04.77    1      Salinas                  24.05.2006
+        343    68.91      Mykolas Alekna                 LTU     18.09.02    q      Eugene                   17.07.2022
+        345    68.90      Knut Hjeltnes                  NOR     08.12.51    3      Walnut                   16.06.1979
+        345    68.90      Jean-Claude Retel              FRA     11.02.68    1      Salôn-de-Provence        17.07.2002
+        345    68.90      Ian Waltz                      USA     15.04.77    1c1    Salinas                  22.05.2008
+        345    68.90      Gerd Kanter                    EST     06.05.79    1      Turnov                   26.05.2009
+        345    68.90      Daniel Ståhl                   SWE     27.08.92    1      Tokyo                    31.07.2021
+        350    68.88      Mac Wilkins                    USA     15.11.50    q      Walnut                   13.06.1980
+        350    68.88      Vladimir Zinchenko             UKR     25.07.59    1      Dnyepropetrovsk          16.07.1988
+        350    68.88      Mike Buncic                    USA     25.07.62    1      Salinas                  24.05.1989
+        350    68.88      Lars Riedel                    GER     28.06.67    1      Rüdlingen                29.08.1999
+        350    68.88      Fedrick Dacres                 JAM     28.02.94    1      Kingston                 11.02.2017
+        355    68.87      Piotr Malachowski              POL     07.06.83    1      Barcelona                01.08.2010
+        355    68.87      Daniel Ståhl                   SWE     27.08.92    1      Zagreb                   15.09.2020
+        357    68.86      Richard Bruch                  SWE     02.07.46    1      Malmö                    18.10.1984
+        357    68.86      Virgilijus Alekna              LTU     13.02.72    1      Halle                    16.05.1998
+        357    68.86      Virgilijus Alekna              LTU     13.02.72    1      Vilnius                  26.04.2003
+        360    68.85      Robert Harting                 GER     18.10.84    1      Kienbaum                 31.07.2013
+        360    68.85      Ehsan Hadadi                   IRI     21.01.85    1c     Chula Vista              12.04.2018
+        362    68.84      Lars Riedel                    GER     28.06.67    1      Zürich                   13.08.1997
+        362    68.84      Gerd Kanter                    EST     06.05.79    1      Rakvere                  24.07.2007
+        362    68.84      Fedrick Dacres                 JAM     28.02.94    1      Mona                     08.03.2018
+        365    68.83      Róbert Fazekas                 HUN     18.08.75    1      München                  11.08.2002
+        366    68.82      Jürgen Schult                  GER     11.05.60    1      Berlin                   15.07.1984
+        366    68.82      Jürgen Schult                  GER     11.05.60    1      Seoul                    01.10.1988
+        366    68.82      Gerd Kanter                    EST     06.05.79    1      Bydgoszcz                01.07.2008
+        366    68.82      Gerd Kanter                    EST     06.05.79    1      Beijing                  19.08.2008
+        370    68.80      Imrich Bugár                   CZE     14.04.55    1      Praha                    23.06.1983
+        371    68.79      Virgilijus Alekna              LTU     13.02.72    q      Helsinki                 06.08.2005
+        371    68.79      Virgilijus Alekna              LTU     13.02.72    1      Bellinzona               05.06.2012
+        373    68.78      Imrich Bugár                   CZE     14.04.55    1      München                  26.07.1983
+        373    68.78      Piotr Malachowski              POL     07.06.83    1      Roma                     10.06.2010
+        375    68.77      Róbert Fazekas                 HUN     18.08.75    1      Budapest                 28.09.2002
+        375    68.77      Daniel Ståhl                   SWE     27.08.92    1      Székesfehérvár           09.07.2019
+        377    68.76      Knut Hjeltnes                  NOR     08.12.51    1      Hayward                  28.05.1979
+        377    68.76      Mac Wilkins                    USA     15.11.50    1      Spikkestad               14.07.1980
+        377    68.76      Al Oerter                      USA     19.09.36    1      Scotch Plains            07.06.1981
+        377    68.76      Juan Martinez Brito            CUB     17.05.58    2      Bratislava               03.06.1983
+        377    68.76      Lars Riedel                    GER     28.06.67    1      Villeneuve d'Ascq        25.06.1995
+        377    68.76      Lars Riedel                    GER     28.06.67    1      Göteborg                 11.08.1995
+        377    68.76      Gerd Kanter                    EST     06.05.79    1      Budapest                 20.06.2010
+        377    68.76      Jarred Rome                    USA     21.12.76    1      Chula Vista              06.08.2011
+        385    68.75      Virgilijus Alekna              LTU     13.02.72    1      Tallinn                  24.09.2004
+        385    68.75      Piotr Malachowski              POL     07.06.83    1cA    Halle                    23.05.2009
+        385    68.75      Kristjan Ceh                   SLO     17.02.99    1      Maribor                  23.06.2020
+        388    68.74      Jürgen Schult                  GER     11.05.60    1      Roma                     04.09.1987
+        388    68.74      Virgilijus Alekna              LTU     13.02.72    1      Madrid                   21.07.2007
+        388    68.74      Daniel Ståhl                   SWE     27.08.92    1      Uppsala                  15.08.2020
+        391    68.73      Gerd Kanter                    EST     06.05.79    2      Réthymno                 14.07.2008
+        391    68.73      Mykolas Alekna                 LTU     18.09.02    1      Eugene                   15.05.2022
+        393    68.72      Virgilijus Alekna              LTU     13.02.72    1      Tartu                    17.06.2003
+        393    68.72      Daniel Ståhl                   SWE     27.08.92    1      Sollentuna               28.08.2016
+        393    68.72      Daniel Ståhl                   SWE     27.08.92    1      Växjö                    12.07.2020
+        396    68.70      Luis Mariano Delís             CUB     06.12.57    1      Knoxville                20.06.1982
+        396    68.70      Art Swarts                     USA     14.02.45    1      West Long Branch         12.11.1983
+        396    68.70      Arthur Burns                   USA     19.07.54    1      Salinas                  12.04.1986
+        399    68.69      Robert Harting                 GER     18.10.84    2      Shanghai                 23.05.2010
+        399    68.69      Sam Mattis                     USA     19.03.94    1      Tucson                   21.05.2022
+        401    68.68      Mac Wilkins                    USA     15.11.50    1      Eugene                   25.06.1980
+        401    68.68      Arthur Burns                   USA     19.07.54    1      Salinas                  23.05.1984
+        401    68.68      Virgilijus Alekna              LTU     13.02.72    1      Vilnius                  26.05.2007
+        401    68.68      Virgilijus Alekna              LTU     13.02.72    1      Vilnius                  24.04.2008
+        401    68.68      Daniel Ståhl                   SWE     27.08.92    1      Bruxelles                06.09.2019
+        401    68.68      Andrius Gudzius                LTU     14.02.91    1      Klaipeda                 08.07.2020
+        407    68.67      Róbert Fazekas                 HUN     18.08.75    1      Sevilla                  08.06.2002
+        407    68.67      Virgilijus Alekna              LTU     13.02.72    1      Göteborg                 12.08.2006
+        407    68.67      Robert Harting                 GER     18.10.84    1      Braunschweig             18.07.2010
+        407    68.67      Fedrick Dacres                 JAM     28.02.94    1      Kingston                 21.01.2017
+        407    68.67      Fedrick Dacres                 JAM     28.02.94    1      Bruxelles                31.08.2018
+        412    68.66      Lars Riedel                    GER     28.06.67    1      Berlin                   21.08.1992
+        412    68.66      Piotr Malachowski              POL     07.06.83    3      Shanghai                 23.05.2010
+        414    68.65      Robert Harting                 GER     18.10.84    1      Kaunas                   08.06.2008
+        414    68.65      Piotr Malachowski              POL     07.06.83    1      Sopot                    27.07.2008
+        414    68.65      Daniel Ståhl                   SWE     27.08.92    1      Halmstad                 29.06.2021
+        414    68.65      Daniel Ståhl                   SWE     27.08.92    1      Oslo                     01.07.2021
+        418    68.64      Wolfgang Schmidt               GER     16.01.54    1      Lille                    05.07.1981
+        418    68.64      Luis Mariano Delís             CUB     06.12.57    1      Bruxelles                27.08.1982
+        418    68.64      Dmitriy Kovtsun                UKR     29.09.55    1      Riga                     06.07.1984
+        418    68.64      Robert Harting                 GER     18.10.84    1      Zürich                   19.08.2010
+        418    68.64      Daniel Ståhl                   SWE     27.08.92    1      Stockholm                04.07.2021
+        423    68.63      Virgilijus Alekna              LTU     13.02.72    1      Stuttgart                09.09.2006
+        423    68.63      Lukas Weißhaidinger            AUT     20.02.92    1c1    Schwechat                25.05.2020
+        425    68.62      Yuriy Dumchev                  RUS     05.08.58    1      Adler                    27.02.1983
+        425    68.62      Andrius Gudzius                LTU     14.02.91    1      Birstonas                20.05.2021
+        427    68.61      Lars Riedel                    GER     28.06.67    1      München                  11.09.1999
+        427    68.61      Gerd Kanter                    EST     06.05.79    1      La Jolla                 23.04.2005
+        427    68.61      Mario Pestano                  ESP     08.04.78    1      El Prat de El Llobregat  18.05.2008
+        427    68.61      Gerd Kanter                    EST     06.05.79    4      Shanghai                 23.05.2010
+        427    68.61      Andrius Gudzius                LTU     14.02.91    1      Kaunas                   03.06.2017
+        427    68.61      Reggie Jagers                  USA     13.08.94    1      Des Moines               24.06.2018
+        433    68.60      Wolfgang Schmidt               GER     16.01.54    1      Köln                     21.05.1976
+        433    68.60      Imrich Bugár                   CZE     14.04.55    1      Praha                    16.08.1982
+        433    68.60      Luis Mariano Delís             CUB     06.12.57    1      Stuttgart                29.08.1982
+        433    68.60      Luis Mariano Delís             CUB     06.12.57    1      Budapest                 20.08.1984
+        433    68.60      Virgilijus Alekna              LTU     13.02.72    1      Turnov                   21.05.2000
+        433    68.60      Robert Harting                 GER     18.10.84    1      Warszawa                 25.08.2013
+        439    68.58      Attila Horváth                 HUN     28.07.67    1      Budapest                 24.06.1994
+        439    68.58      Fedrick Dacres                 JAM     28.02.94    1      Oslo                     05.07.2019
+        441    68.57      Gerd Kanter                    EST     06.05.79    2      Helsinki                 07.08.2005
+        441    68.57      Gerd Kanter                    EST     06.05.79    1      Põltsamaa                19.09.2008
+        443    68.56      Romas Ubartas                  LTU     26.05.60    1      Vilnius                  27.08.1988
+        443    68.56      Daniel Ståhl                   SWE     27.08.92    1      London                   21.07.2019
+        445    68.54      Lars Riedel                    GER     28.06.67    1      Athínai                  10.08.1997
+        445    68.54      Daniel Ståhl                   SWE     27.08.92    1      Hässelby                 17.09.2020
+        447    68.53      Virgilijus Alekna              LTU     13.02.72    1      Szczecin                 15.09.2009
+        447    68.53      Piotr Malachowski              POL     07.06.83    1      Cetniewo                 29.06.2013
+        449    68.52      Igor Duginyets                 RUS     20.05.56    1      Kyiv                     21.08.1982
+        449    68.52      Ehsan Hadadi                   IRI     21.01.85    1      Hengelo                  24.05.2008
+        449    68.52      Robert Harting                 GER     18.10.84    1cA    Wiesbaden                12.05.2012
+        452    68.51      Virgilijus Alekna              LTU     13.02.72    1      Zürich                   18.08.2006
+        452    68.51      Virgilijus Alekna              LTU     13.02.72    1      Ad-Dawhah                11.05.2007
+        452    68.51      Robert Harting                 GER     18.10.84    1      Cottbus                  25.06.2011
+        452    68.51      Fedrick Dacres                 JAM     28.02.94    1      Roma                     31.05.2018
+        456    68.50      Ben Plucknett                  USA     13.04.54    2      Hayward                  26.06.1982
+        456    68.50      Armin Lemme                    GDR     28.10.55    1      Karl-Marx-Stadt          10.07.1982
+        456    68.50      Imrich Bugár                   CZE     14.04.55    1      Formia                   30.06.1984
+        456    68.50      Knut Hjeltnes                  NOR     08.12.51    2      Salinas                  12.04.1986
+        456    68.50      Lars Riedel                    GER     28.06.67    2      Sydney                   25.09.2000
+        456    68.50      Gerd Kanter                    EST     06.05.79    1      Sevilla                  05.06.2004
+        456    68.50      Virgilijus Alekna              LTU     13.02.72    1      Szczecin                 21.07.2012
+        463    68.49      Casey Malone                   USA     06.04.77    1      Fort Collins             20.06.2009
+        463    68.49      Piotr Malachowski              POL     07.06.83    1      Szczecin                 25.06.2011
+        465    68.48      John van Reenen                RSA     26.03.47    1e2    Stellenbosch             14.03.1975
+        465    68.48      Wolfgang Schmidt               GER     16.01.54    1      Berlin                   09.07.1980
+        465    68.48      Imrich Bugár                   CZE     14.04.55    2      Budapest                 20.08.1984
+        465    68.48      Luis Mariano Delís             CUB     06.12.57    1      Rhede                    05.09.1984
+        465    68.48      Lars Riedel                    GER     28.06.67    1      Köln                     16.08.1996
+        465    68.48      Virgilijus Alekna              LTU     13.02.72    1      Dortmund                 08.07.2000
+        465    68.48      Aleksander Tammert             EST     02.02.73    1c2    Arlington                27.03.2004
+        465    68.48      Piotr Malachowski              POL     07.06.83    2      Zürich                   19.08.2010
+        465    68.48      Daniel Ståhl                   SWE     27.08.92    1      Kuortane                 01.08.2020
+        474    68.47      Gerd Kanter                    EST     06.05.79    2      Stuttgart                09.09.2006
+        474    68.47      Robert Harting                 GER     18.10.84    2      Barcelona                01.08.2010
+        474    68.47      Robert Harting                 GER     18.10.84    1      Hengelo                  08.06.2014
+        474    68.47      Fedrick Dacres                 JAM     28.02.94    1      Toronto                  12.08.2018
+        478    68.46      Imrich Bugár                   CZE     14.04.55    2      Potsdam                  09.06.1983
+        478    68.46      Andrius Gudzius                LTU     14.02.91    1      Berlin                   08.08.2018
+        480    68.45      Ehsan Hadadi                   IRI     21.01.85    1      Tehran                   16.06.2010
+        481    68.44      Arthur Burns                   USA     19.07.54    3      San José                 09.06.1984
+        481    68.44      Vaclovas Kidykas               LTU     17.10.61    1      Sochi                    01.06.1988
+        481    68.44      Anthony Washington             USA     16.01.66    2      Berlin                   30.08.1996
+        481    68.44      Jarred Rome                    USA     21.12.76    2c1    Salinas                  22.05.2008
+        481    68.44      Virgilijus Alekna              LTU     13.02.72    1      Kaunas                   02.08.2009
+        481    68.44      Daniel Ståhl                   SWE     27.08.92    1cA    Chula Vista              09.04.2022
+        487    68.43      Gerd Kanter                    EST     06.05.79    2      Réthymno                 18.07.2007
+        488    68.42      Mac Wilkins                    USA     15.11.50    1      Stuttgart                11.07.1980
+        488    68.42      Arthur Burns                   USA     19.07.54    1      Helsingborg              21.07.1982
+        488    68.42      Lars Riedel                    GER     28.06.67    1      Jena                     13.06.1993
+        488    68.42      Virgilijus Alekna              LTU     13.02.72    1      Roma                     02.07.2004
+        492    68.41      Lars Riedel                    GER     28.06.67    1      Berlin                   07.09.1999
+        492    68.41      Gerd Kanter                    EST     06.05.79    2      Zürich                   18.08.2006
+        492    68.41      Andrius Gudzius                LTU     14.02.91    1      Ogre                     15.08.2020
+        495    68.40      Jay Silvester                  USA     27.08.37    1      Reno                     18.09.1968
+        495    68.40      Richard Bruch                  SWE     02.07.46    1      Stockholm                05.07.1972
+        495    68.40      Ken Stadel                     USA     19.02.52    2      San José                 29.04.1978
+        495    68.40      Gejza Valent                   CZE     03.10.53    4      San José                 25.05.1985
+        495    68.40      Juan Martinez Brito            CUB     17.05.58    1      La Habana                19.06.1986
+        495    68.40      Lars Riedel                    GER     28.06.67    1      Schönebeck               16.06.2006
+        495    68.40      Mario Pestano                  ESP     08.04.78    1      Barcelona                19.07.2008
+        495    68.40      Lukas Weißhaidinger            AUT     20.02.92    1      Eisenstadt               18.05.2021
+        503    68.39      Virgilijus Alekna              LTU     13.02.72    1      Oslo                     02.06.2006
+        504    68.38      Mac Wilkins                    USA     15.11.50    1      Modesto                  20.05.1978
+        504    68.38      Luis Mariano Delís             CUB     06.12.57    1      Rieti                    02.09.1984
+        504    68.38      Anthony Washington             USA     16.01.66    1      Tucson                   09.05.1998
+        504    68.38      Gerd Kanter                    EST     06.05.79    1      Stuttgart                13.09.2008
+        508    68.37      Jarred Rome                    USA     21.12.76    1c2    Wailuku                  16.04.2007
+        508    68.37      Christoph Harting              GER     04.10.90    1      Rio de Janeiro           13.08.2016
+        510    68.36      Mac Wilkins                    USA     15.11.50    1      Walnut                   14.06.1980
+        510    68.36      John Powell                    USA     25.06.47    2      San José                 26.05.1984
+        510    68.36      Mac Wilkins                    USA     15.11.50    1      Walnut                   25.07.1984
+        510    68.36      Gejza Valent                   CZE     03.10.53    1      Budapest                 27.09.1984
+        510    68.36      Piotr Malachowski              POL     07.06.83    2      Moskva                   13.08.2013
+        510    68.36      Robert Harting                 GER     18.10.84    1      Roma                     05.06.2014
+        510    68.36      Daniel Ståhl                   SWE     27.08.92    1      Salinas                  21.04.2017
+        510    68.36      Fedrick Dacres                 JAM     28.02.94    1      Stockholm                18.06.2017
+        518    68.35      Fedrick Dacres                 JAM     28.02.94    1      Turnov                   29.05.2018
+        519    68.34      Knut Hjeltnes                  NOR     08.12.51    1      Roosendaal               21.06.1979
+        519    68.34      Luis Mariano Delís             CUB     06.12.57    1      Riccione                 26.08.1984
+        519    68.34      Jürgen Schult                  GER     11.05.60    1      Karl-Marx-Stadt          20.06.1987
+        519    68.34      Mario Pestano                  ESP     08.04.78    1      Annecy                   22.06.2008
+        523    68.33      Martin Wierig                  GER     10.06.87    1      Schönebeck               26.07.2012
+        524    68.32      Richard Bruch                  SWE     02.07.46    1      Malmö                    15.05.1971
+        524    68.32      Mac Wilkins                    USA     15.11.50    1      Eugene                   21.06.1976
+        524    68.32      Mac Wilkins                    USA     15.11.50    1      Reykjavík                10.08.1978
+        524    68.32      Mac Wilkins                    USA     15.11.50    2      Warszawa                 13.08.1978
+        524    68.32      Art Swarts                     USA     14.02.45    2      Scotch Plains            07.06.1981
+        524    68.32      John Powell                    USA     25.06.47    1      London                   30.08.1982
+        524    68.32      Arthur Burns                   USA     19.07.54    1      San José                 19.04.1986
+        524    68.32      John Godina                    USA     31.05.72    1c1    Salinas                  23.05.2000
+        524    68.32      Gerd Kanter                    EST     06.05.79    2      Lausanne                 05.07.2005
+        524    68.32      Gerd Kanter                    EST     06.05.79    1      Sollentuna               08.07.2008
+        534    68.31      Virgilijus Alekna              LTU     13.02.72    1      Tallinn                  30.07.2003
+        534    68.31      Robert Harting                 GER     18.10.84    1      Wiesbaden                19.05.2013
+        536    68.30      John Powell                    USA     25.06.47    1      San José                 28.05.1983
+        536    68.30      Jürgen Schult                  GER     11.05.60    2      Canberra                 04.10.1985
+        536    68.30      Stefan Fernholm                SWE     02.07.59    1      Västerås                 15.07.1987
+        536    68.30      Wolfgang Schmidt               GER     16.01.54    2      Salinas                  24.05.1989
+        536    68.30      Wolfgang Schmidt               GER     16.01.54    1      Modesto                  05.05.1990
+        536    68.30      Lars Riedel                    GER     28.06.67    1      Feldkirch-Gisingen       15.06.1996
+        536    68.30      Virgilijus Alekna              LTU     13.02.72    1      Monaco                   13.09.2003
+        536    68.30      Fedrick Dacres                 JAM     28.02.94    1      Kingston                 15.07.2017
+        536    68.30      Lukas Weißhaidinger            AUT     20.02.92    2      Roma                     09.06.2022
+        545    68.29      Virgilijus Alekna              LTU     13.02.72    1      Kaunas                   09.07.2000
+        545    68.29      Virgilijus Alekna              LTU     13.02.72    q      Saint-Denis              24.08.2003
+        545    68.29      Piotr Malachowski              POL     07.06.83    1      Cetniewo                 01.08.2015
+        548    68.28      Mac Wilkins                    USA     15.11.50    q      Montréal                 24.07.1976
+        548    68.28      Mac Wilkins                    USA     15.11.50    1      Paris                    18.09.1976
+        548    68.28      Mac Wilkins                    USA     15.11.50    1      San José                 26.04.1980
+        548    68.28      Luis Mariano Delís             CUB     06.12.57    1      Barcelona                12.07.1989
+        548    68.28      Gerd Kanter                    EST     06.05.79    2      Hengelo                  24.05.2008
+        548    68.28      Robert Harting                 GER     18.10.84    2cA    Halle                    17.05.2014
+        548    68.28      Kristjan Ceh                   SLO     17.02.99    2      München                  19.08.2022
+        555    68.27      Robert Harting                 GER     18.10.84    1      London                   07.08.2012
+        556    68.26      Wolfgang Schmidt               GER     16.01.54    1      Zürich                   24.08.1977
+        556    68.26      Mac Wilkins                    USA     15.11.50    3      Berkeley                 12.06.1983
+        556    68.26      Luis Mariano Delís             CUB     06.12.57    1      Bratislava               25.05.1984
+        556    68.26      Lars Riedel                    GER     28.06.67    q      Edmonton                 06.08.2001
+        556    68.26      Mario Pestano                  ESP     08.04.78    2      Athínai                  02.07.2007
+        556    68.26      Gerd Kanter                    EST     06.05.79    1      Tallinn                  11.07.2009
+        562    68.25      Virgilijus Alekna              LTU     13.02.72    2      Berlin                   07.09.1999
+        562    68.25      Frantz Kruger                  RSA     22.05.75    1      Cape Town                19.04.2002
+        564    68.24      Wolfgang Schmidt               GER     16.01.54    1      Cottbus                  18.07.1980
+        564    68.24      Stefan Fernholm                SWE     02.07.59    1      Logan                    30.04.1988
+        564    68.24      Robert Harting                 GER     18.10.84    1      Berlin                   22.08.2010
+        564    68.24      Lawrence Okoye                 GBR     06.10.91    3cA    Halle                    19.05.2012
+        564    68.24      Robert Harting                 GER     18.10.84    1      New York City            14.06.2014
+        569    68.23      Anthony Washington             USA     16.01.66    3      Berlin                   07.09.1999
+        569    68.23      Robert Harting                 GER     18.10.84    1      Hengelo                  29.05.2011
+        569    68.23      Daniel Ståhl                   SWE     27.08.92    2      Berlin                   08.08.2018
+        569    68.23      Kristjan Ceh                   SLO     17.02.99    q      Eugene                   17.07.2022
+        573    68.22      Romas Ubartas                  LTU     26.05.60    1      Leselidze                15.05.1988
+        573    68.22      Wolfgang Schmidt               GER     16.01.54    1      Hafnarfjörður            22.06.1988
+        573    68.22      Gerd Kanter                    EST     06.05.79    1      Tallinn                  20.07.2008
+        573    68.22      Andrius Gudzius                LTU     14.02.91    2      Zagreb                   15.09.2020
+        577    68.21      Lars Riedel                    GER     28.06.67    1      Bad Köstritz             19.09.1998
+        577    68.21      Virgilijus Alekna              LTU     13.02.72    1      Barcelona                25.07.2000
+        577    68.21      Zoltán Kovagó                  HUN     10.04.79    1      Budapest                 04.05.2012
+        577    68.21      Robert Harting                 GER     18.10.84    1      Berlin                   31.08.2014
+        577    68.21      Lukas Weißhaidinger            AUT     20.02.92    1       Santa Cruz de Tenerife  15.04.2018
+        582    68.20      John Powell                    USA     25.06.47    1      Berkeley                 01.06.1980
+        582    68.20      Mac Wilkins                    USA     15.11.50    2      Knoxville                20.06.1982
+        582    68.20      Anthony Washington             USA     16.01.66    2      Oslo                     05.07.1996
+        582    68.20      Lars Riedel                    GER     28.06.67    1      Bad Köstritz             20.09.1997
+        582    68.20      Virgilijus Alekna              LTU     13.02.72    1      Kaunas                   04.07.2001
+        582    68.20      Ehsan Hadadi                   IRI     21.01.85    4cA    Halle                    19.05.2012
+        582    68.20      Benn Harradine                 AUS     14.10.82    1      Townsville               10.05.2013
+        582    68.20      Fedrick Dacres                 JAM     28.02.94    1      Gold Coast               13.04.2018
+        590    68.19      Frantz Kruger                  RSA     22.05.75    3      Sydney                   25.09.2000
+        590    68.19      Virgilijus Alekna              LTU     13.02.72    1c1    Salôn-de-Provence        02.06.2007
+        590    68.19      Piotr Malachowski              POL     07.06.83    2      Eugene                   01.06.2013
+        590    68.19      Jason Morgan                   JAM     06.10.82    1      Pearl                    06.06.2015
+        590    68.19      Lukas Weißhaidinger            AUT     20.02.92    1c2    Schwechat                25.05.2020
+        590    68.19      Kristjan Ceh                   SLO     17.02.99    1      Slovenska Bistrica       28.05.2022
+        596    68.18      Ben Plucknett                  USA     13.04.54    2      Stuttgart                11.07.1980
+        596    68.18      Imrich Bugár                   CZE     14.04.55    1      Praha                    10.08.1985
+        596    68.18      Romas Ubartas                  LTU     26.05.60    1      Walnut                   18.04.1992
+        596    68.18      Jürgen Schult                  GER     11.05.60    2      Sevilla                  24.08.1999
+        596    68.18      Virgilijus Alekna              LTU     13.02.72    2      Kaunas                   08.06.2008
+        596    68.18      Ehsan Hadadi                   IRI     21.01.85    2      London                   07.08.2012
+        602    68.17      Zoltán Kovagó                  HUN     10.04.79    1      Budapest                 05.08.2008
+        602    68.17      Andrius Gudzius                LTU     14.02.91    2      Roma                     31.05.2018
+        602    68.17      Fedrick Dacres                 JAM     28.02.94    1      Zagreb                   04.09.2018
+        602    68.17      Kristjan Ceh                   SLO     17.02.99    1      Slovenska Bistrica       29.05.2021
+        606    68.16      Richard Bruch                  SWE     02.07.46    1      Helsingborg              12.06.1974
+        606    68.16      Wolfgang Schmidt               GER     16.01.54    1      Jena                     09.08.1980
+        606    68.16      Yuriy Dumchev                  RUS     05.08.58    1      Kalinin                  13.08.1980
+        606    68.16      Imrich Bugár                   CZE     14.04.55    1      Westwood                 13.05.1984
+        606    68.16      Gerd Kanter                    EST     06.05.79    1      Gävle                    19.06.2005
+        606    68.16      Julian Wruck                   AUS     06.07.91    1      Claremont                01.06.2013
+        606    68.16      Andrius Gudzius                LTU     14.02.91    1      Szczecin                 10.06.2017
+        606    68.16      Andrius Gudzius                LTU     14.02.91    1      Bruxelles                01.09.2017
+        606    68.16      Andrius Gudzius                LTU     14.02.91    1      Palanga                  07.08.2020
+        615    68.15      Lars Riedel                    GER     28.06.67    q      Sydney                   24.09.2000
+        615    68.15      Piotr Malachowski              POL     07.06.83    1      Warszawa                 28.05.2016
+        615    68.15      Kristjan Ceh                   SLO     17.02.99    1      Maribor                  09.06.2021
+        618    68.14      Jürgen Schult                  GER     11.05.60    1      Potsdam                  08.09.1988
+        618    68.14      Virgilijus Alekna              LTU     13.02.72    1      Turnov                   19.09.1999
+        618    68.14      Gerd Kanter                    EST     06.05.79    1      Tallinn                  01.09.2010
+        618    68.14      Lukas Weißhaidinger            AUT     20.02.92    3      Rabat                    16.06.2019
+        622    68.13      Frantz Kruger                  RSA     22.05.75    1      Cottbus                  23.08.2000
+        622    68.13      Róbert Fazekas                 HUN     18.08.75    1      San Sebastián            20.08.2002
+        622    68.13      Gerd Kanter                    EST     06.05.79    1      Tartu                    25.08.2006
+        622    68.13      Robert Harting                 GER     18.10.84    1      Hengelo                  27.05.2012
+        622    68.13      Daniel Ståhl                   SWE     27.08.92    2      Stockholm                18.06.2017
+        627    68.12      Markku Tuokko                  FIN     24.06.51    1      Fresno                   05.05.1979
+        627    68.12      Arthur Burns                   USA     19.07.54    2      Westwood                 15.05.1983
+        627    68.12      Iosif Nagy                     ROU     20.11.46    2      Zaragoza                 22.05.1983
+        627    68.12      Imrich Bugár                   CZE     14.04.55    1      Barcelona                08.07.1984
+        627    68.12      Richard Bruch                  SWE     02.07.46    1      Ystad                    17.11.1984
+        627    68.12      Jürgen Schult                  GER     11.05.60    1      Berlin                   05.07.1989
+        627    68.12      Erik de Bruin                  NED     25.05.63    1      Sneek                    01.04.1991
+        627    68.12      Virgilijus Alekna              LTU     13.02.72    1      Berlin                   12.09.2004
+        627    68.12      Fedrick Dacres                 JAM     28.02.94    1      Tartu                    03.06.2018
+        627    68.12      Daniel Ståhl                   SWE     27.08.92    1      Helsingborg              06.07.2018
+        637    68.11      Daniel Ståhl                   SWE     27.08.92    1      Salinas                  22.04.2017
+        637    68.11      Simon Pettersson               SWE     03.01.94    q      Eugene                   17.07.2022
+        639    68.10      Wolfgang Schmidt               GER     16.01.54    1      Bratislava               10.06.1978
+        639    68.10      Luis Mariano Delís             CUB     06.12.57    2      London                   30.08.1982
+        639    68.10      Imrich Bugár                   CZE     14.04.55    1      La Habana                03.09.1983
+        639    68.10      Wolfgang Schmidt               GER     16.01.54    1      Salinas                  15.04.1989
+        639    68.10      Romas Ubartas                  LTU     26.05.60    1      Gainesville              11.04.1992
+        639    68.10      Róbert Fazekas                 HUN     18.08.75    q      Athínai                  21.08.2004
+        639    68.10      Robert Harting                 GER     18.10.84    1      Bochum-Wattenscheid      02.08.2009
+        639    68.10      Piotr Malachowski              POL     07.06.83    1      Bydgoszcz                26.06.2016
+        639    68.10      Fedrick Dacres                 JAM     28.02.94    1      Kingston                 08.06.2019
+        639    68.10      Daniel Ståhl                   SWE     27.08.92    1      Karlstad                 08.07.2020
+        639    68.10      Daniel Ståhl                   SWE     27.08.92    1      Göteborg                 06.08.2020
+        650    68.09      Lars Riedel                    GER     28.06.67    3      Sevilla                  24.08.1999
+        650    68.09      Róbert Fazekas                 HUN     18.08.75    1      Sevilla                  08.06.2001
+        650    68.09      Gerd Kanter                    EST     06.05.79    2      Helsingborg              15.09.2007
+        650    68.09      Robert Harting                 GER     18.10.84    1      Schönebeck               17.06.2009
+        650    68.09      Andrius Gudzius                LTU     14.02.91    2      Turku                    14.06.2022
+        655    68.08      Hein-Direck Neu                FRG     13.02.44    1      Bremerhaven              27.05.1977
+        655    68.08      Arthur Burns                   USA     19.07.54    2      Indianapolis             03.07.1982
+        655    68.08      Luis Mariano Delís             CUB     06.12.57    1      La Habana                18.07.1982
+        655    68.08      Róbert Fazekas                 HUN     18.08.75    1      Madrid                   17.07.2004
+        655    68.08      Gerd Kanter                    EST     06.05.79    1      Tallinn                  02.08.2009
+        655    68.08      Fedrick Dacres                 JAM     28.02.94    1      Kingston                 20.01.2018
+        661    68.07      Daniel Ståhl                   SWE     27.08.92    1      Halle                    20.05.2017
+        662    68.06      Richard Bruch                  SWE     02.07.46    1      Malmö                    21.09.1969
+        662    68.06      John Powell                    USA     25.06.47    1      Modesto                  25.05.1974
+        662    68.06      John van Reenen                RSA     26.03.47    1e1    Stellenbosch             14.03.1975
+        662    68.06      Luis Mariano Delís             CUB     06.12.57    1      Ostrava                  01.06.1983
+        662    68.06      Richard Bruch                  SWE     02.07.46    1      Malmö                    16.11.1984
+        662    68.06      Lars Riedel                    GER     28.06.67    1      Moskva                   05.06.1995
+        662    68.06      Virgilijus Alekna              LTU     13.02.72    1      Bruxelles                25.08.2000
+        662    68.06      Christoph Harting              GER     04.10.90    1      Dessau                   27.05.2016
+        662    68.06      Daniel Ståhl                   SWE     27.08.92    1      Oslo                     15.06.2017
+        671    68.05      Gerd Kanter                    EST     06.05.79    1      La Jolla                 01.05.2004
+        671    68.05      Lars Riedel                    GER     28.06.67    1cA    Halle                    22.05.2004
+        671    68.05      Virgilijus Alekna              LTU     13.02.72    1      Sevilla                  04.06.2005
+        671    68.05      Virgilijus Alekna              LTU     13.02.72    1      Turnov                   23.05.2006
+        671    68.05      Virgilijus Alekna              LTU     13.02.72    1      Madrid                   17.07.2006
+        676    68.04      John van Reenen                RSA     26.03.47    1      Port Elizabeth           03.04.1974
+        676    68.04      Wolfgang Schmidt               GER     16.01.54    1      Berlin                   12.05.1976
+        676    68.04      Luis Mariano Delís             CUB     06.12.57    2      Stockholm                07.07.1980
+        676    68.04      Imrich Bugár                   CZE     14.04.55    1      Nitra                    22.08.1982
+        676    68.04      Arthur Burns                   USA     19.07.54    1      San José                 12.07.1983
+        676    68.04      Virgilijus Alekna              LTU     13.02.72    1cA    Halle                    21.05.2005
+        676    68.04      Robert Harting                 GER     18.10.84    1      Kassel                   19.06.2016
+        676    68.04      Andrius Gudzius                LTU     14.02.91    1      Palanga                  20.07.2017
+        684    68.03      Virgilijus Alekna              LTU     13.02.72    1      Põltsamaa                17.09.2005
+        684    68.03      Gerd Kanter                    EST     06.05.79    2      Göteborg                 12.08.2006
+        684    68.03      Gerd Kanter                    EST     06.05.79    3      London                   07.08.2012
+        684    68.03      Piotr Malachowski              POL     07.06.83    1      Ad-Dawhah                06.05.2016
+        684    68.03      Mason Finley                   USA     07.10.90    1      London                   05.08.2017
+        684    68.03      Daniel Ståhl                   SWE     27.08.92    2c     Chula Vista              12.04.2018
+        684    68.03      Daniel Ståhl                   SWE     27.08.92    1      Sollentuna               13.06.2021
+        691    68.02      Wolfgang Schmidt               GER     16.01.54    1      Tbilisi                  27.06.1981
+        691    68.02      Ken Stadel                     USA     19.02.52    1      San José                 22.06.1982
+        691    68.02      Zoltán Kövágó                  HUN     10.04.79    2      Oslo                     02.06.2006
+        691    68.02      Virgilijus Alekna              LTU     13.02.72    1      Padova                   30.08.2008
+        691    68.02      Fedrick Dacres                 JAM     28.02.94    1cA    La Jolla                 23.04.2016
+        691    68.02      Daniel Ståhl                   SWE     27.08.92    1      Norrköping               17.09.2021
+        697    68.00      Mac Wilkins                    USA     15.11.50    1      Aarau                    17.08.1977
+        697    68.00      Knut Hjeltnes                  NOR     08.12.51    1      Helsinki                 20.06.1979
+        697    68.00      John Powell                    USA     25.06.47    2      Eugene                   25.06.1980
+        697    68.00      Svein Inge Valvik              NOR     20.09.56    1      Ciudad Juárez            31.05.1982
+        697    68.00      Mac Wilkins                    USA     15.11.50    1      Zürich                   18.08.1982
+        697    68.00      Luis Mariano Delís             CUB     06.12.57    1      Zaragoza                 29.05.1986
+        697    68.00      Virgilijus Alekna              LTU     13.02.72    2      Sevilla                  08.06.2001
+        697    68.00      Mario Pestano                  ESP     08.04.78    1      Zaragoza                 08.06.2004
+        697    68.00      Virgilijus Alekna              LTU     13.02.72    1      Zürich                   19.08.2005
+        697    68.00      Robert Harting                 GER     18.10.84    1      Neubrandenburg           19.08.2012
+        697    68.00      Daniel Ståhl                   SWE     27.08.92    1      Tampere                  01.09.2018
+        708    67.99      Ehsan Hadadi                   IRI     21.01.85    1      Guangzhou                24.11.2010
+        708    67.99      Gerd Kanter                    EST     06.05.79    1      Warszawa                 20.09.2011
+        710    67.98      John Powell                    USA     25.06.47    1      Modesto                  21.05.1977
+        710    67.98      Mac Wilkins                    USA     15.11.50    1      Essen                    27.05.1978
+        710    67.98      Markku Tuokko                  FIN     24.06.51    2      Modesto                  12.05.1979
+        710    67.98      Imrich Bugár                   CZE     14.04.55    1      Praha                    22.07.1984
+        710    67.98      Knut Hjeltnes                  NOR     08.12.51    1      Salinas                  13.04.1985
+        710    67.98      Lars Riedel                    GER     28.06.67    1      Cottbus                  09.06.1996
+        710    67.98      Lars Riedel                    GER     28.06.67    1      Fukuoka                  13.09.1997
+        710    67.98      Ian Waltz                      USA     15.04.77    2c2    Wailuku                  16.04.2007
+        710    67.98      Piotr Malachowski              POL     07.06.83    1      Bielsko-Biala            30.07.2008
+        710    67.98      Lois Maikel Martínez           ESP     03.06.81    1      Durango                  14.07.2019
+        720    67.97      Virgilijus Alekna              LTU     13.02.72    1      Eugene                   28.05.2006
+        720    67.97      Piotr Malachowski              POL     07.06.83    1      Kraków                   12.06.2011
+        720    67.97      Mario Pestano                  ESP     08.04.78    1      Ciudad de Málaga         07.08.2011
+        720    67.97      Fedrick Dacres                 JAM     28.02.94    1      Ostrava                  08.06.2018
+        724    67.96      Mac Wilkins                    USA     15.11.50    1      Walnut                   24.04.1988
+        724    67.96      Gerd Kanter                    EST     06.05.79    1      Kohila                   25.06.2010
+        726    67.95      Anthony Washington             USA     16.01.66    1      Eugene                   26.06.1999
+        726    67.95      Ehsan Hadadi                   IRI     21.01.85    1      Stayki                   09.06.2007
+        726    67.95      Robert Harting                 GER     18.10.84    1      Ulm                      07.07.2013
+        729    67.94      Wolfgang Schmidt               GER     16.01.54    1      Berlin                   29.07.1976
+        729    67.94      Wolfgang Schmidt               GER     16.01.54    1      Göteborg                 06.07.1978
+        729    67.94      Wolfgang Schmidt               GER     16.01.54    1      Jena                     17.05.1980
+        729    67.94      Luis Mariano Delís             CUB     06.12.57    1      Los Angeles              26.06.1983
+        729    67.94      Mac Wilkins                    USA     15.11.50    1      Salinas                  21.04.1984
+        729    67.94      Arthur Burns                   USA     19.07.54    3      San José                 26.05.1984
+        729    67.94      Jürgen Schult                  GER     11.05.60    1      Potsdam                  05.06.1987
+        729    67.94      Mike Buncic                    USA     25.07.62    1      Los Gatos                08.04.1991
+        729    67.94      Anthony Washington             USA     16.01.66    1c1    Tucson                   08.05.1999
+        729    67.94      Róbert Fazekas                 HUN     18.08.75    1      Nyíregyháza              03.08.2003
+        739    67.93      Jürgen Schult                  GER     11.05.60    2      Jena                     05.06.1999
+        739    67.93      Aleksander Tammert             EST     02.02.73    1      Denton                   28.04.2005
+        739    67.93      Virgilijus Alekna              LTU     13.02.72    1      Kaunas                   07.07.2012
+        739    67.93      Christoph Harting              GER     04.10.90    1cA    Halle                    16.05.2015
+        743    67.92      Richard Bruch                  SWE     02.07.46    2      Ystad                    10.06.1971
+        743    67.92      Imrich Bugár                   CZE     14.04.55    1      Praha                    27.08.1983
+        743    67.92      Mac Wilkins                    USA     15.11.50    1      Rieti                    04.09.1983
+        743    67.92      Luis Mariano Delís             CUB     06.12.57    1      Madrid                   04.06.1987
+        743    67.92      Stefan Fernholm                SWE     02.07.59    1      Fort Williams            07.08.1988
+        743    67.92      Mario Pestano                  ESP     08.04.78    1      Valencia                 22.07.2001
+        743    67.92      Gerd Kanter                    EST     06.05.79    2      Zürich                   19.08.2005
+        743    67.92      Ehsan Hadadi                   IRI     21.01.85    1      Besigheim                25.07.2012
+        743    67.92      Martin Maric                   CRO     19.04.84    1      Chula Vista              17.05.2014
+        752    67.91      Virgilijus Alekna              LTU     13.02.72    1      Turnov                   24.05.2005
+        752    67.91      Frank Casañas                  ESP     18.10.78    1      Castellón                07.06.2008
+        752    67.91      Zoltán Kovagó                  HUN     10.04.79    1      Szekszárd                17.06.2012
+        755    67.90      Ken Stadel                     USA     19.02.52    2      Modesto                  21.05.1977
+        755    67.90      Wolfgang Schmidt               GER     16.01.54    1      Warszawa                 29.07.1979
+        755    67.90      Wolfgang Schmidt               GER     16.01.54    1      Zürich                   15.08.1979
+        755    67.90      Svein Inge Valvik              NOR     20.09.56    1      El Paso                  26.05.1982
+        755    67.90      Imrich Bugár                   CZE     14.04.55    1      Roma                     14.09.1982
+        755    67.90      Al Oerter                      USA     19.09.36    2      West Long Branch         12.11.1983
+        755    67.90      Gejza Valent                   CZE     03.10.53    1      Modesto                  12.05.1984
+        755    67.90      Jürgen Schult                  GER     11.05.60    1      Dresden                  27.07.1984
+        755    67.90      Luis Mariano Delís             CUB     06.12.57    1      Nice                     16.07.1985
+        755    67.90      Jürgen Schult                  GER     11.05.60    1      Schwerin                 03.06.1987
+        755    67.90      Vaclovas Kidykas               LTU     17.10.61    2      Smalininkai              08.05.1988
+        755    67.90      Jürgen Schult                  GER     11.05.60    1      Rostock                  28.05.1989
+        755    67.90      Lars Riedel                    GER     28.06.67    1      Schwerin                 25.05.1992
+        755    67.90      Vladimir Dubrovshchik          BLR     07.01.72    1      Stayki                   13.07.1996
+        755    67.90      Vitaliy Sidorov                UKR     23.03.70    1      Kyiv                     03.05.1998
+        755    67.90      Lars Riedel                    GER     28.06.67    1      Zürich                   12.08.1998
+        755    67.90      Lars Riedel                    GER     28.06.67    4      Zürich                   06.08.2004
+        755    67.90      Virgilijus Alekna              LTU     13.02.72    1      Kaunas                   24.07.2011
+        773    67.89      Nick Sweeney                   IRL     26.03.68    1      Helsingborg              04.09.1998
+        773    67.89      Róbert Fazekas                 HUN     18.08.75    1      Salôn-de-Provence        24.05.2001
+        773    67.89      Robert Harting                 GER     18.10.84    1      Warendorf                15.09.2013
+        776    67.88      Wolfgang Schmidt               GER     16.01.54    1      Budapest                 11.08.1980
+        776    67.88      Romas Ubartas                  LTU     26.05.60    1      Tallinn                  21.06.1986
+        776    67.88      Anthony Washington             USA     16.01.66    1      Modesto                  16.05.1992
+        776    67.88      Jason Tunks                    CAN     07.05.75    1      Abilene                  14.05.1998
+        776    67.88      Ehsan Hadadi                   IRI     21.01.85    1      Tehran                   24.05.2007
+        776    67.88      Gerd Kanter                    EST     06.05.79    1      Berlin                   14.06.2009
+        776    67.88      Virgilijus Alekna              LTU     13.02.72    1      Réthymno                 13.07.2011
+        776    67.88      Daniel Ståhl                   SWE     27.08.92    q      Ad-Dawhah                28.09.2019
+        784    67.86      Knut Hjeltnes                  NOR     08.12.51    1      Oslo                     17.07.1979
+        784    67.86      Arthur Burns                   USA     19.07.54    1      Salinas                  08.04.1981
+        784    67.86      Arthur Burns                   USA     19.07.54    1      København                05.08.1982
+        784    67.86      Imrich Bugár                   CZE     14.04.55    1      Banská Bystrica          11.06.1983
+        784    67.86      Jason Young                    USA     27.05.81    1      Abilene                  01.04.2006
+        784    67.86      Gerd Kanter                    EST     06.05.79    2      Tallinn                  15.08.2006
+        790    67.85      Virgilijus Alekna              LTU     13.02.72    2      Zürich                   12.08.1998
+        790    67.85      Ian Waltz                      USA     15.04.77    1      Modesto                  06.05.2006
+        792    67.84      John van Reenen                RSA     26.03.47    1      Stellenbosch             17.03.1975
+        792    67.84      Mac Wilkins                    USA     15.11.50    1      Berlin                   20.08.1976
+        792    67.84      Luis Mariano Delís             CUB     06.12.57    1      La Habana                24.05.1980
+        792    67.84      Luis Mariano Delís             CUB     06.12.57    1      Bratislava               07.06.1980
+        792    67.84      Dmitriy Kovtsun                UKR     29.09.55    1      Yerevan                  19.10.1980
+        792    67.84      Georgiy Kolnootchenko          BLR     07.05.59    1      Cottbus                  25.06.1982
+        792    67.84      John Powell                    USA     25.06.47    2      Zürich                   18.08.1982
+        792    67.84      Wolfgang Schmidt               GER     16.01.54    1      Eugene                   03.06.1989
+        792    67.84      Virgilijus Alekna              LTU     13.02.72    1      Berlin                   01.09.1998
+        792    67.84      Frantz Kruger                  RSA     22.05.75    1      Brisbane                 05.09.2001
+        792    67.84      Gerd Kanter                    EST     06.05.79    1      Turnov                   22.05.2007
+        803    67.83      Lars Riedel                    GER     28.06.67    2      Chemnitz                 22.07.2000
+        803    67.83      Andrius Gudzius                LTU     14.02.91    1      Vilnius                  13.07.2020
+        805    67.82      Velko Velev                    BUL     04.01.48    1      Riga                     13.08.1978
+        805    67.82      Luis Mariano Delís             CUB     06.12.57    1      Santiago de Cuba         24.02.1982
+        805    67.82      Luis Mariano Delís             CUB     06.12.57    1      Torino                   30.06.1985
+        805    67.82      Virgilijus Alekna              LTU     13.02.72    1      Rhede                    24.05.1996
+        805    67.82      Virgilijus Alekna              LTU     13.02.72    2cA    Halle                    22.05.2004
+        805    67.82      Gerd Kanter                    EST     06.05.79    1      Tallinn                  28.07.2007
+        805    67.82      Gerd Kanter                    EST     06.05.79    2      Tallinn                  04.06.2008
+        805    67.82      Piotr Malachowski              POL     07.06.83    2      Beijing                  19.08.2008
+        805    67.82      Gerd Kanter                    EST     06.05.79    1      London                   14.08.2010
+        805    67.82      Andrius Gudzius                LTU     14.02.91    1      Birmingham               26.05.2018
+        805    67.82      Reggie Jagers                  USA     13.08.94    1      Chula Vista              06.06.2021
+        816    67.81      Anthony Washington             USA     16.01.66    1      Lausanne                 02.07.1999
+        816    67.81      Frantz Kruger                  RSA     22.05.75    2      Zürich                   11.08.2000
+        816    67.81      Virgilijus Alekna              LTU     13.02.72    1      Vilnius                  09.06.2005
+        816    67.81      Piotr Malachowski              POL     07.06.83    1      Taipei                   28.05.2010
+        816    67.81      Gerd Kanter                    EST     06.05.79    1      Monaco                   22.07.2010
+        821    67.80      Richard Bruch                  SWE     02.07.46    1      Malmö                    29.05.1971
+        821    67.80      John Powell                    USA     25.06.47    2      Walnut                   14.06.1980
+        821    67.80      Alwin Wagner                   GER     11.08.50    1      Melsungen                01.07.1987
+        821    67.80      Adewale Olukoju                NGR     27.07.68    1      Modesto                  11.05.1991
+        821    67.80      Lars Riedel                    GER     28.06.67    1      Roma                     09.06.1993
+        821    67.80      Lars Riedel                    GER     28.06.67    1      Chemnitz                 25.05.1995
+        821    67.80      Vladimir Dubrovshchik          BLR     07.01.72    1      Stayki                   17.07.1999
+        821    67.80      Virgilijus Alekna              LTU     13.02.72    1      Walnut                   16.04.2000
+        821    67.80      Daniel Ståhl                   SWE     27.08.92    1      Helsingborg              25.08.2017
+        830    67.79      Virgilijus Alekna              LTU     13.02.72    q      Athínai                  21.08.2004
+        830    67.79      Virgilijus Alekna              LTU     13.02.72    3      Beijing                  19.08.2008
+        830    67.79      Robert Harting                 GER     18.10.84    1      Wattenscheid             17.06.2012
+        830    67.79      Daniel Ståhl                   SWE     27.08.92    1      Zagreb                   14.09.2021
+        834    67.78      Markku Tuokko                  FIN     24.06.51    2      Helsinki                 20.06.1979
+        834    67.78      Luis Mariano Delís             CUB     06.12.57    1      Praha                    09.06.1984
+        834    67.78      Lars Riedel                    GER     28.06.67    1      Oristano                 01.06.1991
+        834    67.78      Lars Riedel                    GER     28.06.67    1      Monaco                   09.09.1995
+        834    67.78      Zoltán Kövágó                  HUN     10.04.79    2      Athínai                  03.07.2006
+        834    67.78      Ola Stunes Isene               NOR     29.01.95    1      Albufeira                12.04.2019
+        840    67.77      Virgilijus Alekna              LTU     13.02.72    1      Kaunas                   19.07.2008
+        841    67.76      Mac Wilkins                    USA     15.11.50    1      Stockholm                14.06.1977
+        841    67.76      Mac Wilkins                    USA     15.11.50    1      Fürth                    11.09.1977
+        841    67.76      Arthur Burns                   USA     19.07.54    2      San José                 22.06.1982
+        841    67.76      Arthur Burns                   USA     19.07.54    1      Salinas                  16.04.1983
+        841    67.76      Vitaliy Pishchalnikov          RUS     01.04.58    1      Stavropol                09.05.1984
+        841    67.76      Imrich Bugár                   CZE     14.04.55    2      Modesto                  12.05.1984
+        841    67.76      John Powell                    USA     25.06.47    q      San José                 08.06.1984
+        841    67.76      Armin Lemme                    GDR     28.10.55    2      Neubrandenburg           06.06.1986
+        841    67.76      Lars Riedel                    GER     28.06.67    1      Cottbus                  23.06.1993
+        841    67.76      Jarred Rome                    USA     21.12.76    1c1    Salinas                  17.05.2007
+        841    67.76      Gerd Kanter                    EST     06.05.79    1      Tallinn                  22.07.2007
+        841    67.76      Andrius Gudzius                LTU     14.02.91    1      Kaunas                   19.05.2021
+        841    67.76      Lukas Weißhaidinger            AUT     20.02.92    1      Sankt Pölten             03.06.2021
+        841    67.76      Kristjan Ceh                   SLO     17.02.99    3      Turku                    14.06.2022
+        855    67.75      Aleksander Tammert             EST     02.02.73    1      Tartu                    25.05.2002
+        856    67.74      Mac Wilkins                    USA     15.11.50    1      Stockholm                05.07.1976
+        856    67.74      Wolfgang Schmidt               GER     16.01.54    1      Berlin                   15.06.1977
+        856    67.74      Luis Mariano Delís             CUB     06.12.57    1      Bucuresti                01.06.1980
+        856    67.74      Imrich Bugár                   CZE     14.04.55    1      Praha                    22.06.1985
+        856    67.74      Mike Buncic                    USA     25.07.62    1      San José                 27.05.1989
+        856    67.74      Jürgen Schult                  GER     11.05.60    1      Halle                    15.05.1999
+        856    67.74      Frank Casañas                  ESP     18.10.78    1      Vila Real de Santo Antóni    27.05.2012
+        863    67.73      Frantz Kruger                  RSA     22.05.75    2c2    Rüdlingen                19.08.2001
+        863    67.73      Virgilijus Alekna              LTU     13.02.72    1      Århus                    22.06.2003
+        863    67.73      Andrius Gudzius                LTU     14.02.91    1      Palanga                  26.07.2019
+        866    67.72      Mac Wilkins                    USA     15.11.50    1      Köln                     01.09.1976
+        866    67.72      Wolfgang Schmidt               GER     16.01.54    1      Potsdam                  24.08.1978
+        866    67.72      Imrich Bugár                   CZE     14.04.55    1      Helsinki                 14.08.1983
+        866    67.72      Imrich Bugár                   CZE     14.04.55    1      Nitra                    23.08.1983
+        866    67.72      Stefan Fernholm                SWE     02.07.59    1      Provo                    22.05.1985
+        866    67.72      Romas Ubartas                  LTU     26.05.60    1      Portsmouth               19.06.1988
+        866    67.72      Mike Buncic                    USA     25.07.62    1      Los Gatos                09.06.1990
+        866    67.72      Lars Riedel                    GER     28.06.67    1      Stuttgart                17.08.1993
+        866    67.72      Jason Tunks                    CAN     07.05.75    1      Arlington                28.03.1998
+        866    67.72      Traves Smikle                  JAM     07.05.92    2      Kingston                 20.01.2018
+        866    67.72      Simon Pettersson               SWE     03.01.94    2      Stockholm                23.08.2020
+        866    67.72      Kristjan Ceh                   SLO     17.02.99    1      Novo Mesto               14.07.2021
+        866    67.72      Daniel Ståhl                   SWE     27.08.92    1      Helsingborg              27.08.2022
+        879    67.71      Lars Riedel                    GER     28.06.67    1      Stendal                  30.08.1998
+        879    67.71      Virgilijus Alekna              LTU     13.02.72    1      Kaunas                   01.08.2003
+        879    67.71      Gerd Kanter                    EST     06.05.79    1      Bottnaryd                16.06.2012
+        879    67.71      Daniel Ståhl                   SWE     27.08.92    1      Székesfehérvár           06.07.2021
+        883    67.70      Mac Wilkins                    USA     15.11.50    2      San José                 19.07.1983
+        883    67.70      Imrich Bugár                   CZE     14.04.55    1      Jablonec nad Nisou       30.07.1983
+        883    67.70      Imrich Bugár                   CZE     14.04.55    1      Zaragoza                 20.06.1985
+        883    67.70      Svein Inge Valvik              NOR     20.09.56    1      Ylivieska                12.07.1987
+        883    67.70      Virgilijus Alekna              LTU     13.02.72    1      Bellinzona               18.08.1997
+        883    67.70      Jason Tunks                    CAN     07.05.75    1      Palo Alto                09.06.2001
+        883    67.70      Robert Harting                 GER     18.10.84    3      Berlin                   01.06.2008
+        883    67.70      Piotr Malachowski              POL     07.06.83    2      Berlin                   14.06.2009
+        891    67.69      Gerd Kanter                    EST     06.05.79    1      Tallinn                  22.06.2008
+        891    67.69      Robert Harting                 GER     18.10.84    1      Ulm                      05.07.2009
+        891    67.69      Gerd Kanter                    EST     06.05.79    2      Roma                     10.06.2010
+        894    67.68      Wolfgang Schmidt               GER     16.01.54    1      Halle                    15.05.1976
+        894    67.68      Mac Wilkins                    USA     15.11.50    1      Budapest                 12.06.1978
+        894    67.68      Knut Hjeltnes                  NOR     08.12.51    2      Modesto                  17.05.1980
+        894    67.68      Armin Lemme                    GDR     28.10.55    2      Cottbus                  25.06.1982
+        894    67.68      Mac Wilkins                    USA     15.11.50    1      Berlin                   20.08.1982
+        894    67.68      John Powell                    USA     25.06.47    1      Indianapolis             19.06.1983
+        894    67.68      Richard Bruch                  SWE     02.07.46    1      Malmö                    18.11.1984
+        894    67.68      Róbert Fazekas                 HUN     18.08.75    1      Budapest                 01.07.2001
+        894    67.68      Lars Riedel                    GER     28.06.67    1      Borna                    20.05.2004
+        894    67.68      Piotr Malachowski              POL     07.06.83    1      Cetniewo                 29.07.2017
+        894    67.68      Ehsan Hadadi                   IRI     21.01.85    3      Stockholm                10.06.2018
+        894    67.68      Fedrick Dacres                 JAM     28.02.94    1      Lima                     06.08.2019
+        906    67.67      Fedrick Dacres                 JAM     28.02.94    2      Székesfehérvár           09.07.2019
+        907    67.66      Arthur Burns                   USA     19.07.54    1      Salinas                  22.04.1981
+        907    67.66      Arthur Burns                   USA     19.07.54    2      Koblenz                  25.08.1982
+        907    67.66      Wolfgang Schmidt               GER     16.01.54    1      Modesto                  06.05.1989
+        907    67.66      Virgilijus Alekna              LTU     13.02.72    1      Rüdlingen                17.08.1997
+        907    67.66      John Godina                    USA     31.05.72    1eA    Salinas                  22.05.2001
+        907    67.66      Hannes Hopley                  RSA     26.01.81    1      College Station          29.05.2004
+        907    67.66      Róbert Fazekas                 HUN     18.08.75    2      Roma                     02.07.2004
+        907    67.66      Zoltán Kovagó                  HUN     10.04.79    1      Szczecin                 17.09.2008
+        907    67.66      Piotr Malachowski              POL     07.06.83    1      Eugene                   03.07.2010
+        916    67.65      Andrius Gudzius                LTU     14.02.91    1      Vilnius                  04.06.2021
+        916    67.65      Daniel Ståhl                   SWE     27.08.92    1      Walnut                   16.04.2022
+        918    67.64      Knut Hjeltnes                  NOR     08.12.51    1      Salinas                  04.04.1981
+        918    67.64      Gejza Valent                   CZE     03.10.53    1      Ostrava                  20.09.1984
+        918    67.64      Stefan Fernholm                SWE     02.07.59    1      Provo                    23.05.1987
+        918    67.64      Vésteinn Hafsteinsson          ISL     12.12.60    1      Selfoss                  31.05.1989
+        918    67.64      Wolfgang Schmidt               GER     16.01.54    1      Birmingham               23.06.1989
+        918    67.64      Lars Riedel                    GER     28.06.67    1      Zürich                   11.08.1999
+        918    67.64      Michael Möllenbeck             GER     12.12.69    1      Dortmund                 08.06.2002
+        918    67.64      Virgilijus Alekna              LTU     13.02.72    1      Monaco                   09.09.2005
+        918    67.64      Zoltán Kovagó                  HUN     10.04.79    1      Budapest                 16.05.2009
+        918    67.64      Daniel Ståhl                   SWE     27.08.92    q      London                   04.08.2017
+        918    67.64      Daniel Ståhl                   SWE     27.08.92    1      Karlstad                 22.06.2021
+        929    67.63      Virgilijus Alekna              LTU     13.02.72    1      Zaragoza                 28.07.2007
+        929    67.63      Rutger Smith                   NED     09.07.81    3      Helsingborg              15.09.2007
+        929    67.63      Robert Harting                 GER     18.10.84    1cA    Halle                    24.05.2008
+        929    67.63      Virgilijus Alekna              LTU     13.02.72    1      Thessaloníki             12.09.2009
+        929    67.63      Lawrence Okoye                 GBR     06.10.91    1      London                   09.07.2011
+        929    67.63      Mykolas Alekna                 LTU     18.09.02    1      Vilnius                  01.07.2022
+        935    67.62      Juan Martinez Brito            CUB     17.05.58    2      Nice                     16.07.1985
+        935    67.62      Randy Heisler                  USA     07.08.61    1      Bloomington              29.06.1987
+        935    67.62      Jürgen Schult                  GER     11.05.60    1      Rostock                  29.05.1988
+        935    67.62      Marco Martino                  ITA     21.02.60    1      Spoleto                  28.05.1989
+        935    67.62      Anthony Washington             USA     16.01.66    1      Tucson                   04.05.1996
+        935    67.62      Virgilijus Alekna              LTU     13.02.72    2      Turnov                   26.05.2009
+        935    67.62      Robert Harting                 GER     18.10.84    1      Bochum-Wattenscheid      26.06.2010
+        935    67.62      Andrius Gudzius                LTU     14.02.91    1      Birstonas                13.05.2017
+        943    67.61      Michael Möllenbeck             GER     12.12.69    3      Edmonton                 08.08.2001
+        944    67.60      Luis Mariano Delís             CUB     06.12.57    3      Canberra                 04.10.1985
+        944    67.60      Rolf Danneberg                 GER     01.03.53    1      Berlin                   30.05.1987
+        944    67.60      Lars Riedel                    GER     28.06.67    1      Roma                     05.06.1997
+        944    67.60      Lars Riedel                    GER     28.06.67    1      Linz                     09.07.1997
+        944    67.60      Virgilijus Alekna              LTU     13.02.72    1      Berlin                   26.08.1997
+        944    67.60      Gerd Kanter                    EST     06.05.79    1      Rakvere                  10.09.2004
+        944    67.60      Martin Wierig                  GER     10.06.87    1      Wiesbaden                15.05.2016
+        951    67.59      Vasiliy Kaptyukh               BLR     26.06.67    4      Sydney                   25.09.2000
+        951    67.59      Gerd Kanter                    EST     06.05.79    1      Kohila                   31.08.2013
+        951    67.59      Daniel Ståhl                   SWE     27.08.92    1      Borås                    07.07.2017
+        951    67.59      Christoph Harting              GER     04.10.90    1      Schönebeck               18.05.2018
+        951    67.59      Daniel Ståhl                   SWE     27.08.92    1      Ad-Dawhah                30.09.2019
+        956    67.58      Richard Bruch                  SWE     02.07.46    1      Skellefteå               30.06.1973
+        956    67.58      Juan Martinez Brito            CUB     17.05.58    1      La Habana                28.01.1983
+        956    67.58      Richard Bruch                  SWE     02.07.46    1      Malmö                    13.11.1984
+        956    67.58      Knut Hjeltnes                  NOR     08.12.51    1      Modesto                  10.05.1986
+        956    67.58      Vladimir Zinchenko             UKR     25.07.59    1      Tallinn                  27.06.1987
+        956    67.58      Erik de Bruin                  NED     25.05.63    1      Helsinki                 29.06.1989
+        962    67.57      Dmitriy Shevchenko             RUS     13.05.68    4      Edmonton                 08.08.2001
+        962    67.57      Gerd Kanter                    EST     06.05.79    1      Jogeva                   28.05.2009
+        962    67.57      Robert Harting                 GER     18.10.84    1      Birmingham               24.08.2014
+        962    67.57      Robert Harting                 GER     18.10.84    1      Bruxelles                05.09.2014
+        962    67.57      Traves Smikle                  JAM     07.05.92    1      Spanish Town             19.01.2019
+        962    67.57      Daniel Ståhl                   SWE     27.08.92    3      Stockholm                30.06.2022
+        968    67.56      Wolfgang Schmidt               GER     16.01.54    1      Dresden                  19.05.1976
+        968    67.56      Wolfgang Warnemünde            GDR     08.05.53    1      Rostock                  02.06.1980
+        968    67.56      Gejza Valent                   CZE     03.10.53    1      Gateshead                13.06.1982
+        968    67.56      Arthur Burns                   USA     19.07.54    1      Helsinki                 29.07.1982
+        968    67.56      Luis Mariano Delís             CUB     06.12.57    1      La Habana                14.03.1987
+        968    67.56      Róbert Fazekas                 HUN     18.08.75    1      Réthymno                 07.07.2002
+        968    67.56      Lars Riedel                    GER     28.06.67    1cA    Wiesbaden                17.05.2003
+        968    67.56      Virgilijus Alekna              LTU     13.02.72    1      Jurbarkas                20.09.2004
+        968    67.56      Gerd Kanter                    EST     06.05.79    1      Tallinn                  01.08.2007
+        968    67.56      Piotr Malachowski              POL     07.06.83    1      Bydgoszcz                06.06.2010
+        968    67.56      Piotr Malachowski              POL     07.06.83    1      Warszawa                 08.06.2010
+        968    67.56      Andrius Gudzius                LTU     14.02.91    2      Bruxelles                31.08.2018
+        980    67.55      Zoltán Kovagó                  HUN     10.04.79    2      Eugene                   03.07.2010
+        980    67.55      Piotr Malachowski              POL     07.06.83    2      Rio de Janeiro           13.08.2016
+        980    67.55      Ehsan Hadadi                   IRI     21.01.85    2      Oslo                     07.06.2018
+        980    67.55      Mykolas Alekna                 LTU     18.09.02    3      Eugene                   19.07.2022
+        984    67.54      Richard Bruch                  SWE     02.07.46    1      Malmö                    25.05.1971
+        984    67.54      Siegfried Pachale              GDR     24.10.49    1      Karl-Marx-Stadt          29.05.1976
+        984    67.54      John Powell                    USA     25.06.47    2      Westwood                 11.06.1976
+        984    67.54      Hilmar Hoßfeld                 GDR     18.01.54    2      Jena                     17.05.1980
+        984    67.54      Werner Hartmann                FRG     20.04.59    1      Georgsheil               29.04.1982
+        984    67.54      Svein Inge Valvik              NOR     20.09.56    1      El Paso                  12.05.1982
+        984    67.54      Armin Lemme                    GDR     28.10.55    2      Praha                    16.08.1982
+        984    67.54      Mac Wilkins                    USA     15.11.50    3      Koblenz                  25.08.1982
+        984    67.54      Arthur Burns                   USA     19.07.54    2      San José                 28.05.1983
+        984    67.54      Arthur Burns                   USA     19.07.54    1      Walnut                   29.04.1984
+        984    67.54      Luis Mariano Delís             CUB     06.12.57    1      La Habana                11.05.1984
+        984    67.54      Luis Mariano Delís             CUB     06.12.57    1      Roma                     31.08.1984
+        984    67.54      Vaclovas Kidykas               LTU     17.10.61    2      Portsmouth               19.06.1988
+        984    67.54      Romas Ubartas                  LTU     26.05.60    1      Rieti                    06.09.1991
+        984    67.54      Frantz Kruger                  RSA     22.05.75    q      Sydney                   24.09.2000
+        999    67.53      Virgilijus Alekna              LTU     13.02.72    4      Sevilla                  24.08.1999
+        999    67.53      Benn Harradine                 AUS     14.10.82    1      Townsville               05.05.2012
+        999    67.53      Piotr Malachowski              POL     07.06.83    1      Ad-Dawhah                11.05.2012
+        999    67.53      Christoph Harting              GER     04.10.90    1cA    Wiesbaden                10.05.2015
+        1003   67.52      Svein Inge Valvik              NOR     20.09.56    1      El Paso                  27.05.1982
+        1003   67.52      Rolf Danneberg                 GER     01.03.53    1      Kamp-Lintfort            20.09.1987
+        1003   67.52      Erik de Bruin                  NED     25.05.63    1      Les Abymes               07.05.1989
+        1003   67.52      Virgilijus Alekna              LTU     13.02.72    1      Pretoria                 23.03.2001
+        1007   67.51      Jarred Rome                    USA     21.12.76    1      Chula Vista              03.07.2004
+        1007   67.51      Gerd Kanter                    EST     06.05.79    2      Sheffield                21.08.2005
+        1007   67.51      Kristjan Ceh                   SLO     17.02.99    1      Ptuj                     28.02.2021
+        1010   67.50      Mac Wilkins                    USA     15.11.50    1      Montréal                 25.07.1976
+        1010   67.50      Markku Tuokko                  FIN     24.06.51    1      Lohja                    27.05.1980
+        1010   67.50      Wolfgang Schmidt               GER     16.01.54    1      Nitra                    16.08.1980
+        1010   67.50      Richard Bruch                  SWE     02.07.46    1      Malmö                    09.10.1984
+        1010   67.50      Imrich Bugár                   CZE     14.04.55    1      Warszawa                 28.07.1985
+        1010   67.50      Erik de Bruin                  NED     25.05.63    1      Lappeenranta             04.07.1989
+        1010   67.50      Juan Martinez Brito            CUB     17.05.58    1      La Habana                09.03.1990
+        1010   67.50      Lars Riedel                    GER     28.06.67    1      Cottbus                  21.06.1995
+        1010   67.50      Ercüment Olgundeniz            TUR     07.07.76    2      Vila Real de Santo Antóni      27.05.2012
+        1010   67.50      Piotr Malachowski              POL     07.06.83    1      Birmingham               05.06.2016
+        1020   67.49      Gerd Kanter                    EST     06.05.79    1c2    Chula Vista              13.05.2006
+        1020   67.49      Gerd Kanter                    EST     06.05.79    1      Praha                    18.06.2006
+        1020   67.49      Gerd Kanter                    EST     06.05.79    1      Ad-Dawhah                06.05.2011
+        1020   67.49      Piotr Malachowski              POL     07.06.83    1      Szczecin                 09.08.2015
+        1020   67.49      Lukas Weißhaidinger            AUT     20.02.92    1      Rehlingen                09.06.2019
+        1025   67.48      Imrich Bugár                   CZE     14.04.55    1      Budapest                 20.08.1981
+        1025   67.48      Luis Mariano Delís             CUB     06.12.57    2      Praha                    22.06.1985
+        1025   67.48      Jürgen Schult                  GER     11.05.60    1      Jena                     04.06.1988
+        1025   67.48      Romas Ubartas                  LTU     26.05.60    2      Seoul                    01.10.1988
+        1025   67.48      Jürgen Schult                  GER     11.05.60    1      Monaco                   01.09.1989
+        1025   67.48      Vasiliy Kaptyukh               BLR     26.06.67    2      Zürich                   17.08.2001
+        1025   67.48      Virgilijus Alekna              LTU     13.02.72    2cA    Salôn-de-Provence        29.05.2003
+        1025   67.48      Piotr Malachowski              POL     07.06.83    1      Bielsko-Biala            08.07.2010
+        1025   67.48      Alex Rose                      SAM     17.11.91    1      Tucson                   22.05.2021
+        1025   67.48      Kristjan Ceh                   SLO     17.02.99    1      Tallinn                  10.07.2021
+        1035   67.47      Lars Riedel                    GER     28.06.67    2      Johannesburg             12.09.1998
+        1035   67.47      Aleksander Tammert             EST     02.02.73    1      Türi                     17.09.2002
+        1035   67.47      Gerd Kanter                    EST     06.05.79    2      Vilnius                  09.06.2005
+        1035   67.47      Daniel Jasinski                GER     05.08.89    1      Schönebeck               26.05.2021
+        1039   67.46      Mac Wilkins                    USA     15.11.50    1      Ebensee                  30.07.1977
+        1039   67.46      Al Oerter                      USA     19.09.36    2      Scotch Plains            08.12.1979
+        1039   67.46      Arthur Burns                   USA     19.07.54    1      Modesto                  11.05.1985
+        1039   67.46      Mike Buncic                    USA     25.07.62    2      Salinas                  15.04.1989
+        1039   67.46      Lars Riedel                    GER     28.06.67    2      Berlin                   26.08.1997
+        1039   67.46      Andy Bloom                     USA     11.08.73    1      Knoxville                10.04.1999
+        1039   67.46      Virgilijus Alekna              LTU     13.02.72    2      Zürich                   11.08.1999
+        1039   67.46      Mario Pestano                  ESP     08.04.78    1      Valencia                 27.07.2002
+        1039   67.46      Zoltán Kövágó                  HUN     10.04.79    2      Ad-Dawhah                12.05.2006
+        1039   67.46      Martin Wierig                  GER     10.06.87    1      Ostrava                  26.06.2013
+        1039   67.46      Robert Harting                 GER     18.10.84    1cA    Wiesbaden                10.05.2014
+        1050   67.45      Lois Maikel Martínez           CUB     03.06.81    1      La Habana                08.07.2005
+        1050   67.45      Gerd Kanter                    EST     06.05.79    q      Osaka                    26.08.2007
+        1050   67.45      Sam Mattis                     USA     19.03.94    1      Philadelphia             19.03.2016
+        1050   67.45      Piotr Malachowski              POL     07.06.83    1      Rabat                    22.05.2016
+        1050   67.45      Andrius Gudzius                LTU     14.02.91    1      Palanga                  08.05.2022
+        1055   67.44      Wolfgang Schmidt               GER     16.01.54    1      Potsdam                  05.08.1978
+        1055   67.44      Ben Plucknett                  USA     13.04.54    3      Modesto                  17.05.1980
+        1055   67.44      Wolfgang Schmidt               GER     16.01.54    1      Budapest                 29.07.1981
+        1055   67.44      Imrich Bugár                   CZE     14.04.55    1      Gottwaldov               08.08.1981
+        1055   67.44      Luis Mariano Delís             CUB     06.12.57    1      Rovereto                 29.08.1984
+        1055   67.44      Arthur Burns                   USA     19.07.54    1      San José                 22.04.1986
+        1055   67.44      Michael Möllenbeck             GER     12.12.69    1      Jena                     25.05.1996
+        1062   67.43      John Godina                    USA     31.05.72    1      Bellinzona               01.07.1998
+        1063   67.42      Armin Lemme                    GDR     28.10.55    1      Halle                    16.05.1982
+        1063   67.42      Mac Wilkins                    USA     15.11.50    2      Roma                     14.09.1982
+        1063   67.42      Yuriy Dumchev                  RUS     05.08.58    1      Sochi                    20.05.1984
+        1063   67.42      Lars Riedel                    GER     28.06.67    1      Halle                    15.05.1993
+        1063   67.42      Michael Möllenbeck             GER     12.12.69    1      Dortmund                 15.06.2003
+        1063   67.42      Zoltán Kovagó                  HUN     10.04.79    1      Budapest                 14.07.2004
+        1063   67.42      Gerd Kanter                    EST     06.05.79    2      Tallinn                  24.09.2004
+        1063   67.42      Ian Waltz                      USA     15.04.77    1c1    Chula Vista              13.05.2006
+        1063   67.42      Gerd Kanter                    EST     06.05.79    1      Luzern                   15.07.2009
+        1063   67.42      Robert Harting                 GER     18.10.84    1      Braunschweig             22.06.2014
+        1073   67.41      Aleksander Tammert             EST     02.02.73    1      Austin                   06.05.2000
+        1073   67.41      Jarred Rome                    USA     21.12.76    1c1    Wailuku                  16.04.2007
+        1073   67.41      Robert Harting                 GER     18.10.84    1      Bad Köstritz             29.08.2010
+        1073   67.41      Clemens Prüfer                 GER     13.08.97    1      Halle                    15.05.2021
+        1077   67.40      Richard Bruch                  SWE     02.07.46    1      Malmö                    23.05.1971
+        1077   67.40      Mac Wilkins                    USA     15.11.50    1      Barletta                 17.08.1980
+        1077   67.40      Armin Lemme                    GDR     28.10.55    1      Karl-Marx-Stadt          19.06.1982
+        1077   67.40      Rolf Danneberg                 GER     01.03.53    1      Stade                    05.05.1984
+        1077   67.40      Vladimir Zinchenko             UKR     25.07.59    1      Moskva                   22.08.1987
+        1077   67.40      Jürgen Schult                  GER     11.05.60    1      Düsseldorf               20.06.1988
+        1077   67.40      Nick Sweeney                   IRL     26.03.68    2      Salinas                  22.05.1996
+        1077   67.40      John Godina                    USA     31.05.72    1      Indianapolis             15.06.1997
+        1077   67.40      Robert Harting                 GER     18.10.84    1      Berlin                   02.09.2012
+        1077   67.40      Robert Harting                 GER     18.10.84    1      Warszawa                 23.08.2014
+        1077   67.40      Piotr Malachowski              POL     07.06.83    1      Beijing                  29.08.2015
+        1088   67.39      Tim Vollmer                    USA     13.09.46    2      Lancester                16.05.1971
+        1088   67.39      Jarred Rome                    USA     21.12.76    1eA    Salinas                  18.05.2005
+        1088   67.39      Zoltán Kovagó                  HUN     10.04.79    1      Szombathely              17.06.2015
+        1088   67.39      Daniel Ståhl                   SWE     27.08.92    1cA    Bottnaryd                16.06.2018
+        1088   67.39      Simon Pettersson               SWE     03.01.94    3      Kuortane                 26.06.2021
+        1088   67.39      Simon Pettersson               SWE     03.01.94    2      Tokyo                    31.07.2021
+        1094   67.38      Richard Bruch                  SWE     02.07.46    1      Södertälje               30.05.1974
+        1094   67.38      Mac Wilkins                    USA     15.11.50    1      München                  26.07.1977
+        1094   67.38      Ferenc Tegla                   HUN     15.07.47    1      Szentes                  12.10.1977
+        1094   67.38      Mac Wilkins                    USA     15.11.50    1      Saarijärvi               23.06.1979
+        1094   67.38      Wolfgang Schmidt               GER     16.01.54    1      Cottbus                  31.05.1981
+        1094   67.38      Imrich Bugár                   CZE     14.04.55    1      Praha                    18.07.1983
+        1094   67.38      Mac Wilkins                    USA     15.11.50    2      Walnut                   29.04.1984
+        1094   67.38      Imrich Bugár                   CZE     14.04.55    1      Praha                    17.08.1986
+        1094   67.38      Dmitriy Kovtsun                UKR     29.09.55    1      Moskva                   25.07.1987
+        1094   67.38      Rolf Danneberg                 GER     01.03.53    3      Seoul                    01.10.1988
+        1094   67.38      Rolf Danneberg                 GER     01.03.53    1      Hamburg                  12.08.1989
+        1094   67.38      Frantz Kruger                  RSA     22.05.75    1      Cape Town                26.03.1999
+        1094   67.38      Roland Varga                   HUN     22.10.77    1      Veszprém                 29.06.2002
+        1094   67.38      Virgilijus Alekna              LTU     13.02.72    4      London                   07.08.2012
+        1094   67.38      Andrius Gudzius                LTU     14.02.91    1      Kaunas                   19.04.2017
+        1109   67.37      Lars Riedel                    GER     28.06.67    1      Cuxhaven                 19.07.2003
+        1109   67.37      Piotr Malachowski              POL     07.06.83    2      Turnov                   22.05.2012
+        1109   67.37      Daniel Ståhl                   SWE     27.08.92    1      Stockholm                03.09.2017
+        1109   67.37      Andrius Gudzius                LTU     14.02.91    4      Stockholm                30.06.2022
+        1113   67.36      Wolfgang Schmidt               GER     16.01.54    1      Helsinki                 06.09.1978
+        1113   67.36      Georgiy Kolnootchenko          BLR     07.05.59    1      Stavropol                13.05.1980
+        1113   67.36      Markku Tuokko                  FIN     24.06.51    1      Tampere                  06.06.1980
+        1113   67.36      Luis Mariano Delís             CUB     06.12.57    2      Helsinki                 14.08.1983
+        1113   67.36      Svein Inge Valvik              NOR     20.09.56    1      Lund                     23.05.1985
+        1113   67.36      Knut Hjeltnes                  NOR     08.12.51    1      Oslo                     27.06.1985
+        1113   67.36      Lars Riedel                    GER     28.06.67    1      Zürich                   16.08.1995
+        1113   67.36      Virgilijus Alekna              LTU     13.02.72    1      Jurbarkas                20.09.2003
+        1113   67.36      Gerd Kanter                    EST     06.05.79    1      London                   28.07.2012
+        1113   67.36      Giovanni Faloci                ITA     13.10.85    1      Spoleto                  22.06.2021
+        1123   67.35      Lars Riedel                    GER     28.06.67    2      Berlin                   01.09.1998
+        1123   67.35      Ian Waltz                      USA     15.04.77    2c2    Chula Vista              13.05.2006
+        1123   67.35      Piotr Malachowski              POL     07.06.83    1      London                   26.07.2013
+        1123   67.35      Piotr Malachowski              POL     07.06.83    2      Bruxelles                05.09.2014
+        1127   67.34      John van Reenen                RSA     26.03.47    2      Modesto                  25.05.1974
+        1127   67.34      Mac Wilkins                    USA     15.11.50    1      Eugene                   05.06.1976
+        1127   67.34      John Powell                    USA     25.06.47    2      Eugene                   21.06.1976
+        1127   67.34      Wolfgang Schmidt               GER     16.01.54    1      Berlin                   03.08.1977
+        1127   67.34      John Powell                    USA     25.06.47    4      Walnut                   16.06.1979
+        1127   67.34      John Powell                    USA     25.06.47    1      Reykjavík                16.07.1982
+        1127   67.34      Imrich Bugár                   CZE     14.04.55    1      Budapest                 21.08.1982
+        1127   67.34      Vaclovas Kidykas               LTU     17.10.61    1      Leningrad                26.07.1985
+        1127   67.34      Gerd Kanter                    EST     06.05.79    1      Tartu                    10.06.2007
+        1127   67.34      Piotr Malachowski              POL     07.06.83    1      Shanghai                 18.05.2013
+        1137   67.32      Luis Mariano Delís             CUB     06.12.57    1      Caracas                  25.08.1983
+        1137   67.32      Robert Gray                    CAN     05.10.56    1      Etobicoke                30.04.1984
+        1137   67.32      Juan Martinez Brito            CUB     17.05.58    2      Roma                     31.08.1984
+        1137   67.32      Andy Bloom                     USA     11.08.73    2cA    Salinas                  25.05.1999
+        1137   67.32      Frantz Kruger                  RSA     22.05.75    3      Berlin                   01.09.2000
+        1137   67.32      Róbert Fazekas                 HUN     18.08.75    1      Szombathely              30.05.2004
+        1137   67.32      Piotr Malachowski              POL     07.06.83    2      Neubrandenburg           28.08.2010
+        1137   67.32      Robert Harting                 GER     18.10.84    1      Saint-Denis              08.07.2011
+        1137   67.32      Alin Alexandru Firfirica       ROU     03.11.95    1      Chorzów                  14.09.2019
+        1146   67.31      Gerd Kanter                    EST     06.05.79    1      Valga                    25.07.2004
+        1146   67.31      Gerd Kanter                    EST     06.05.79    1      Bedford                  15.08.2010
+        1146   67.31      Daniel Ståhl                   SWE     27.08.92    1      Székesfehérvár           19.08.2020
+        1149   67.30      Mac Wilkins                    USA     15.11.50    1      Saarijärvi               26.06.1976
+        1149   67.30      Wolfgang Warnemünde            GDR     08.05.53    1      Rostock                  11.07.1984
+        1149   67.30      Knut Hjeltnes                  NOR     08.12.51    1      Romedal                  08.09.1984
+        1149   67.30      Ion Zamfirache                 ROU     23.08.53    1      Bucuresti                19.05.1985
+        1149   67.30      Romas Ubartas                  LTU     26.05.60    1      Fort-de-France           25.04.1992
+        1149   67.30      Dmitriy Shevchenko             RUS     13.05.68    1      Sochi                    29.05.1992
+        1149   67.30      Anthony Washington             USA     16.01.66    2      Köln                     16.08.1996
+        1149   67.30      Frantz Kruger                  RSA     22.05.75    3      Zürich                   19.08.2005
+        1149   67.30      Ian Waltz                      USA     15.04.77    1      Wailuku                  14.04.2007
+        1149   67.30      Gerd Kanter                    EST     06.05.79    1      Kohila                   30.06.2011
+        1149   67.30      Erik Cadée                     NED     15.02.84    1      Hoorn                    12.05.2012
+        1149   67.30      Fedrick Dacres                 JAM     28.02.94    1      Chula Vista              20.04.2017
+        1149   67.30      David Wrobel                   GER     13.02.91    2      Halle                    15.05.2021
+        1162   67.29      Robert Harting                 GER     18.10.84    1      Schönebeck               27.06.2014
+        1162   67.29      Andrius Gudzius                LTU     14.02.91    3      Stockholm                18.06.2017
+        1164   67.28      Mac Wilkins                    USA     15.11.50    2      Berkeley                 01.06.1980
+        1164   67.28      Luis Mariano Delís             CUB     06.12.57    1      Nice                     23.08.1981
+        1164   67.28      Imrich Bugár                   CZE     14.04.55    2      Salinas                  19.05.1982
+        1164   67.28      Luis Mariano Delís             CUB     06.12.57    q      Edmonton                 07.07.1983
+        1164   67.28      Gejza Valent                   CZE     03.10.53    3      Roma                     31.08.1984
+        1164   67.28      Art Swarts                     USA     14.02.45    1      Scotch Plains            15.09.1985
+        1164   67.28      Romas Ubartas                  LTU     26.05.60    1      Kyiv                     15.07.1986
+        1164   67.28      Romas Ubartas                  LTU     26.05.60    1      Leningrad                11.06.1988
+        1164   67.28      Wolfgang Schmidt               GER     16.01.54    1      Lauda-Königshofen        16.07.1989
+        1164   67.28      Lars Riedel                    GER     28.06.67    1      Stuttgart                01.07.2001
+        1164   67.28      Gerd Kanter                    EST     06.05.79    1      Marugame                 19.08.2007
+        1164   67.28      Daniel Ståhl                   SWE     27.08.92    1      Chorzów                  06.09.2020
+        1176   67.27      Virgilijus Alekna              LTU     13.02.72    1      Jena                     03.06.2000
+        1176   67.27      Mario Pestano                  ESP     08.04.78    1      Jerez de la Frontera     24.06.2008
+        1176   67.27      Gerd Kanter                    EST     06.05.79    1      Tallinn                  31.07.2011
+        1176   67.27      Gerd Kanter                    EST     06.05.79    1      Sollentuna               05.07.2012
+        1176   67.27      Kristjan Ceh                   SLO     17.02.99    1      Ptuj                     27.02.2022
+        1181   67.26      Velko Velev                    BUL     04.01.48    1      Athínai                  21.06.1979
+        1181   67.26      Yuriy Dumchev                  RUS     05.08.58    1      Leselidze                23.03.1980
+        1181   67.26      Wolfgang Schmidt               GER     16.01.54    1      Potsdam                  11.06.1981
+        1181   67.26      Markku Tuokko                  FIN     24.06.51    1      Helsinki                 05.07.1981
+        1181   67.26      Arthur Burns                   USA     19.07.54    2      Karl-Marx-Stadt          10.07.1982
+        1181   67.26      Gejza Valent                   CZE     03.10.53    2      München                  26.07.1983
+        1181   67.26      Gejza Valent                   CZE     03.10.53    2      Westwood                 18.05.1985
+        1181   67.26      Knut Hjeltnes                  NOR     08.12.51    1      Larvik                   29.06.1985
+        1181   67.26      Lars Riedel                    GER     28.06.67    1      Köln                     18.08.1995
+        1181   67.26      Zoltán Kovagó                  HUN     10.04.79    3      Roma                     10.06.2010
+        1181   67.26      Piotr Malachowski              POL     07.06.83    2      Saint-Denis              08.07.2011
+        1181   67.26      Piotr Malachowski              POL     07.06.83    1      Turnov                   27.05.2014
+        1181   67.26      Philip Milanov                 BEL     06.07.91    2      Ad-Dawhah                06.05.2016
+        1181   67.26      Daniel Ståhl                   SWE     27.08.92    1      Karlstad                 25.07.2017
+        1181   67.26      Matthew Denny                  AUS     02.06.96    1      Birmingham               04.08.2022
+        1196   67.25      Andy Bloom                     USA     11.08.73    2c1    Salinas                  23.05.2000
+        1196   67.25      Vasiliy Kaptyukh               BLR     26.06.67    1      Minsk                    30.06.2001
+        1196   67.25      Lars Riedel                    GER     28.06.67    3c2    Rüdlingen                19.08.2001
+        1196   67.25      Lars Riedel                    GER     28.06.67    1      Sondershausen            25.08.2001
+        1196   67.25      Jarred Rome                    USA     21.12.76    2      Salinas                  24.05.2006
+        1196   67.25      Frank Casañas                  ESP     18.10.78    2      Barcelona                19.07.2008
+        1196   67.25      Lawrence Okoye                 GBR     06.10.91    1      Zagreb                   04.09.2012
+        1203   67.24      Arthur Burns                   USA     19.07.54    2      Bruxelles                27.08.1982
+        1203   67.24      Richard Bruch                  SWE     02.07.46    1      Ystad                    28.10.1984
+        1203   67.24      Gerd Kanter                    EST     06.05.79    3      Saint-Denis              08.07.2011
+        1203   67.24      Lukas Weißhaidinger            AUT     20.02.92    1      Schwechat                01.08.2015
+        1203   67.24      Fedrick Dacres                 JAM     28.02.94    1      Székesfehérvár           02.07.2018
+        1208   67.23      Virgilijus Alekna              LTU     13.02.72    1      Tartu                    01.06.1999
+        1208   67.23      Bogdan Pishchalnikov           RUS     26.08.82    1      Sochi                    27.05.2010
+        1208   67.23      Piotr Malachowski              POL     07.06.83    3      Székesfehérvár           09.07.2019
+        1211   67.22      Mac Wilkins                    USA     15.11.50    2      Köln                     21.05.1976
+        1211   67.22      Mac Wilkins                    USA     15.11.50    1      Oslo                     03.08.1978
+        1211   67.22      Arthur Burns                   USA     19.07.54    1      Stockholm                06.07.1982
+        1211   67.22      Mitch Crouser                  USA     30.12.57    1      Eugene                   05.08.1985
+        1211   67.22      Knut Hjeltnes                  NOR     08.12.51    1      Oslo                     05.07.1986
+        1211   67.22      Imrich Bugár                   CZE     14.04.55    1      Nitra                    31.05.1987
+        1211   67.22      Erik de Bruin                  NED     25.05.63    1      Leiden                   20.05.1989
+        1211   67.22      Dmitriy Kovtsun                UKR     29.09.55    1      Kyiv                     02.05.1992
+        1211   67.22      Gerd Kanter                    EST     06.05.79    3      Athínai                  02.07.2007
+        1211   67.22      Robert Harting                 GER     18.10.84    1      Berlin                   11.09.2011
+        1211   67.22      Lukas Weißhaidinger            AUT     20.02.92    1      Minsk                    10.09.2019
+        1222   67.21      Jürgen Schult                  GER     11.05.60    2cA    Wiesbaden                08.05.1999
+        1222   67.21      Martin Wierig                  GER     10.06.87    2cA    Halle                    21.05.2011
+        1222   67.21      Andrius Gudzius                LTU     14.02.91    1      Palanga                  25.06.2021
+        1225   67.20      Wolfgang Schmidt               GER     16.01.54    2      Karl-Marx-Stadt          29.05.1976
+        1225   67.20      Wolfgang Schmidt               GER     16.01.54    q      Praha                    02.09.1978
+        1225   67.20      Markku Tuokko                  FIN     24.06.51    1      San José                 28.04.1979
+        1225   67.20      Knut Hjeltnes                  NOR     08.12.51    1      Stockholm                02.07.1985
+        1225   67.20      Luis Mariano Delís             CUB     06.12.57    1      Bratislava               13.06.1987
+        1225   67.20      Romas Ubartas                  LTU     26.05.60    2      Sochi                    01.06.1988
+        1225   67.20      Rolf Danneberg                 GER     01.03.53    1      Frankfurt                23.07.1988
+        1225   67.20      Jürgen Schult                  GER     11.05.60    1      Rostock                  25.05.1991
+        1225   67.20      Jaroslav Zitnanský             SVK     18.02.72    1      Beveren                  18.08.2002
+        1225   67.20      Michael Möllenbeck             GER     12.12.69    2      Cuxhaven                 19.07.2003
+        1225   67.20      Ehsan Hadadi                   IRI     21.01.85    1      Ad-Dawhah                09.05.2008
+        1225   67.20      Virgilijus Alekna              LTU     13.02.72    1      Madrid                   04.07.2009
+        1225   67.20      Jason Young                    USA     27.05.81    1      Chula Vista              22.04.2010
+        1225   67.20      Roland Varga                   CRO     22.10.77    1      Budapest                 24.07.2010
+        1225   67.20      Gerhard Mayer                  AUT     20.05.80    1      Schwechat                05.05.2015
+        1240   67.19      Virgilijus Alekna              LTU     13.02.72    1      Eugene                   27.05.2001
+        1240   67.19      Virgilijus Alekna              LTU     13.02.72    1      Athínai                  17.09.2006
+        1240   67.19      Piotr Malachowski              POL     07.06.83    5      London                   07.08.2012
+        1240   67.19      Ehsan Hadadi                   IRI     21.01.85    1cA    Chula Vista              11.04.2019
+        1240   67.19      Kristjan Ceh                   SLO     17.02.99    1      Sankt Pölten             27.06.2020
+        1245   67.18      Ludík Danek                    CZE     06.01.37    1      Praha                    10.07.1974
+        1245   67.18      Wolfgang Schmidt               GER     16.01.54    1      Dresden                  13.06.1979
+        1245   67.18      Art Swarts                     USA     14.02.45    1      Scotch Plains            07.10.1979
+        1245   67.18      Knut Hjeltnes                  NOR     08.12.51    2      Spikkestad               14.07.1980
+        1245   67.18      Mac Wilkins                    USA     15.11.50    2      Soquel                   22.05.1982
+        1245   67.18      Arthur Burns                   USA     19.07.54    1      Reykjavík                18.07.1982
+        1245   67.18      Ben Plucknett                  USA     13.04.54    1      Houston                  07.05.1983
+        1245   67.18      Mac Wilkins                    USA     15.11.50    3      San José                 28.05.1983
+        1245   67.18      Arthur Burns                   USA     19.07.54    1      Stockholm                27.07.1983
+        1245   67.18      Imrich Bugár                   CZE     14.04.55    1      San Diego                09.05.1984
+        1245   67.18      Imrich Bugár                   CZE     14.04.55    1      Westwood                 17.05.1986
+        1245   67.18      Jürgen Schult                  GER     11.05.60    1      Schwerin                 04.06.1986
+        1245   67.18      Lars Riedel                    GER     28.06.67    1      Köln                     24.08.1997
+        1245   67.18      John Godina                    USA     31.05.72    1      Westwood                 02.05.1998
+        1245   67.18      Michael Möllenbeck             GER     12.12.69    2      Halle                    16.05.1998
+        1245   67.18      Mario Pestano                  ESP     08.04.78    1      Barcelona                08.06.2008
+        1245   67.18      Piotr Malachowski              POL     07.06.83    1      Berlin                   27.08.2017
+        1245   67.18      Fedrick Dacres                 JAM     28.02.94    2cA    Bottnaryd                16.06.2018
+        1263   67.17      Jürgen Schult                  GER     11.05.60    2      Lausanne                 02.07.1999
+        1263   67.17      Michael Möllenbeck             GER     12.12.69    2      Stuttgart                01.07.2001
+        1263   67.17      Frank Casañas                  ESP     18.10.78    1      Cottbus                  11.06.2008
+        1263   67.17      Frank Casañas                  ESP     18.10.78    1      Quinta do Anjo           22.03.2009
+        1263   67.17      Zoltán Kövágó                  HUN     10.04.79    1      Szekszárd                07.08.2011
+        1263   67.17      Alex Rose                      SAM     17.11.91    1      Grand Rapids             30.03.2021
+        1269   67.16      Jay Silvester                  USA     27.08.37    1      Walnut                   24.04.1971
+        1269   67.16      John Powell                    USA     25.06.47    2      San José                 01.05.1976
+        1269   67.16      Markku Tuokko                  FIN     24.06.51    1      Westwood                 06.05.1979
+        1269   67.16      Markku Tuokko                  FIN     24.06.51    1      Lohja                    07.08.1979
+        1269   67.16      Mac Wilkins                    USA     15.11.50    q      Eugene                   24.06.1980
+        1269   67.16      Yuriy Dumchev                  RUS     05.08.58    1      Tallinn                  22.06.1982
+        1269   67.16      John Powell                    USA     25.06.47    3      Indianapolis             03.07.1982
+        1269   67.16      Mac Wilkins                    USA     15.11.50    1      Göteborg                 02.08.1982
+        1269   67.16      Arthur Burns                   USA     19.07.54    2      Rieti                    04.09.1983
+        1269   67.16      Yuriy Dumchev                  RUS     05.08.58    1      Tallinn                  28.06.1984
+        1269   67.16      Knut Hjeltnes                  NOR     08.12.51    1      Byrkjelo                 07.07.1985
+        1269   67.16      Knut Hjeltnes                  NOR     08.12.51    1      Luzern                   21.06.1986
+        1269   67.16      Erik de Bruin                  NED     25.05.63    1      Eindhoven                28.07.1991
+        1269   67.16      Vésteinn Hafsteinsson          ISL     12.12.60    1      Salinas                  27.05.1992
+        1269   67.16      Lars Riedel                    GER     28.06.67    1      Linz                     22.08.1995
+        1269   67.16      Virgilijus Alekna              LTU     13.02.72    2      Duisburg                 12.06.1996
+        1269   67.16      Róbert Fazekas                 HUN     18.08.75    1      Rieti                    07.09.2003
+        1269   67.16      Mario Pestano                  ESP     08.04.78    1      Barcelona                27.06.2007
+        1269   67.16      Zoltán Kovagó                  HUN     10.04.79    1      Debrecen                 08.08.2010
+        1269   67.16      Daniel Jasinski                GER     05.08.89    2      Wiesbaden                15.05.2016
+        1269   67.16      Piotr Malachowski              POL     07.06.83    1      Cetniewo                 12.07.2016
+        1269   67.16      Daniel Ståhl                   SWE     27.08.92    2      Rabat                    05.06.2022
+        1269   67.16      Lukas Weißhaidinger            AUT     20.02.92    4      Turku                    14.06.2022
+        1292   67.15      Gerd Kanter                    EST     06.05.79    2      Bergen                   11.06.2004
+        1292   67.15      Rutger Smith                   NED     09.07.81    1      Gröningen                12.09.2011
+        1292   67.15      Mario Pestano                  ESP     08.04.78    1      Las Palmas de Gran Canari     21.07.2012
+        1295   67.14      Richard Bruch                  SWE     02.07.46    1      Malmö                    21.07.1970
+        1295   67.14      Ludík Danek                    CZE     06.01.37    1      Oslo                     03.07.1975
+        1295   67.14      Wolfgang Schmidt               GER     16.01.54    1      Düsseldorf               02.09.1977
+        1295   67.14      Ben Plucknett                  USA     13.04.54    1      Salinas                  14.04.1980
+        1295   67.14      John Powell                    USA     25.06.47    1      Berkeley                 12.06.1982
+        1295   67.14      Borislav Tashev                BUL     30.11.56    1      Pleven                   31.07.1982
+        1295   67.14      Arthur Burns                   USA     19.07.54    3      München                  26.07.1983
+        1295   67.14      Igor Avrunin                   LTU     16.07.57    1      Smalininkai              09.05.1984
+        1295   67.14      John Powell                    USA     25.06.47    1      Los Angeles              23.06.1984
+        1295   67.14      Luis Mariano Delís             CUB     06.12.57    1      Indianapolis             12.08.1987
+        1295   67.14      Erik de Bruin                  NED     25.05.63    1      Krommenie                25.06.1989
+        1295   67.14      Jürgen Schult                  GER     11.05.60    1      Neubrandenburg           22.07.1989
+        1295   67.14      Romas Ubartas                  LTU     26.05.60    1      Seattle                  23.07.1990
+        1295   67.14      Anthony Washington             USA     16.01.66    1      San José                 01.06.1996
+        1295   67.14      Virgilijus Alekna              LTU     13.02.72    1      Tartu                    11.06.1998
+        1295   67.14      Frank Casañas                  CUB     18.10.78    1      Castellón                12.05.2006
+        1295   67.14      Gerd Kanter                    EST     06.05.79    1cA    Tallinn                  27.09.2007
+        1295   67.14      Traves Smikle                  JAM     07.05.92    1c     Halle                    26.05.2018
+        1295   67.14      Fedrick Dacres                 JAM     28.02.94    1      Kingston                 09.02.2019
+        1295   67.14      Lawrence Okoye                 GBR     06.10.91    3      München                  19.08.2022
+        1315   67.13      Jürgen Schult                  GER     11.05.60    4      Berlin                   07.09.1999
+        1315   67.13      Virgilijus Alekna              LTU     13.02.72    1      Milano                   07.06.2000
+        1315   67.13      Lars Riedel                    GER     28.06.67    2      Dortmund                 08.07.2000
+        1315   67.13      Libor Malina                   CZE     14.06.73    1      Jablonec nad Nisou       01.07.2001
+        1315   67.13      Frantz Kruger                  RSA     22.05.75    1      Rüdlingen                18.08.2001
+        1315   67.13      Gerd Kanter                    EST     06.05.79    1      Tallinn                  05.09.2003
+        1315   67.13      Zoltán Kovagó                  HUN     10.04.79    1      Székesfehérvár           18.07.2016
+        1315   67.13      Lawrence Okoye                 GBR     06.10.91    1      Södertälje               11.06.2021
+        1323   67.12      Mac Wilkins                    USA     15.11.50    2      Berlin                   15.06.1977
+        1323   67.12      Iosif Nagy                     ROU     20.11.46    1      Bucuresti                30.05.1982
+        1323   67.12      Imrich Bugár                   CZE     14.04.55    1      Pacov                    19.09.1982
+        1323   67.12      Romas Ubartas                  LTU     26.05.60    1      Moskva                   06.07.1986
+        1323   67.12      Stefan Fernholm                SWE     02.07.59    1      Provo                    21.05.1987
+        1323   67.12      Rolf Danneberg                 GER     01.03.53    1      Stade                    07.05.1988
+        1323   67.12      Jürgen Schult                  GER     11.05.60    1      Barcelona                09.09.1989
+        1323   67.12      Romas Ubartas                  LTU     26.05.60    1      Berlin                   10.09.1991
+        1323   67.12      Mike Buncic                    USA     25.07.62    1      Salinas                  23.07.1993
+        1323   67.12      Traves Smikle                  JAM     07.05.92    1      Kingston                 30.06.2012
+        1323   67.12      Alex Rose                      SAM     17.11.91    1      Miramar                  05.06.2021
+        1323   67.12      Simon Pettersson               SWE     03.01.94    4      München                  19.08.2022
+        1335   67.11      Aleksander Tammert             EST     02.02.73    1      Tartu                    16.07.2006
+        1335   67.11      Frank Casañas                  ESP     18.10.78    1      Quinta do Anjo           21.03.2009
+        1337   67.10      Mac Wilkins                    USA     15.11.50    1      Westwood                 11.05.1980
+        1337   67.10      Markku Tuokko                  FIN     24.06.51    1      Saarijärvi               21.06.1980
+        1337   67.10      Markku Tuokko                  FIN     24.06.51    1      Kouvola                  16.07.1981
+        1337   67.10      Alwin Wagner                   GER     11.08.50    1      Felsberg                 07.09.1982
+        1337   67.10      Imrich Bugár                   CZE     14.04.55    1      Ostrava                  12.06.1985
+        1337   67.10      Imrich Bugár                   CZE     14.04.55    1      Köln                     25.08.1985
+        1337   67.10      Brad Cooper                    BAH     30.06.57    1      Nassau                   14.06.1986
+        1337   67.10      Imrich Bugár                   CZE     14.04.55    2      Bratislava               13.06.1987
+        1337   67.10      Mike Buncic                    USA     25.07.62    1      Los Gatos                14.07.1988
+        1337   67.10      Virgilijus Alekna              LTU     13.02.72    q      Sydney                   24.09.2000
+        1337   67.10      Aleksander Tammert             EST     02.02.73    1      College Station          14.04.2001
+        1337   67.10      Róbert Fazekas                 HUN     18.08.75    1      Tartu                    02.06.2002
+        1337   67.10      Robert Harting                 GER     18.10.84    2      Ostrava                  26.06.2013
+        1337   67.10      Fedrick Dacres                 JAM     28.02.94    2      Oslo                     15.06.2017
+        1337   67.10      Simon Pettersson               SWE     03.01.94    2      Helsingborg              21.06.2020
+        1337   67.10      Daniel Ståhl                   SWE     27.08.92    4      Eugene                   19.07.2022
+        1337   67.10      Kristjan Ceh                   SLO     17.02.99    1      Zürich                   08.09.2022
+        1354   67.09      John Godina                    USA     31.05.72    1      New Orleans              19.06.1998
+        1354   67.09      Robert Harting                 GER     18.10.84    4      Beijing                  19.08.2008
+        1354   67.09      Fedrick Dacres                 JAM     28.02.94    2      London                   21.07.2019
+        1357   67.08      Richard Bruch                  SWE     02.07.46    1      Caserta                  23.05.1974
+        1357   67.08      Markku Tuokko                  FIN     24.06.51    2      Saarijärvi               23.06.1979
+        1357   67.08      John Powell                    USA     25.06.47    1      Long Beach               23.05.1981
+        1357   67.08      Wolfgang Schmidt               GER     16.01.54    1      Berlin                   14.08.1981
+        1357   67.08      Richard Bruch                  SWE     02.07.46    1      Malmö                    28.09.1983
+        1357   67.08      Gejza Valent                   CZE     03.10.53    1      Hannover                 16.06.1984
+        1357   67.08      Romas Ubartas                  LTU     26.05.60    1      Stuttgart                31.08.1986
+        1357   67.08      Romas Ubartas                  LTU     26.05.60    1      Vilnius                  15.05.1990
+        1357   67.08      Jürgen Schult                  GER     11.05.60    1      Rostock                  27.05.1990
+        1357   67.08      Mike Buncic                    USA     25.07.62    1      San José                 25.05.1991
+        1357   67.08      Costel Grasu                   ROU     05.07.67    1      Snagov                   30.05.1992
+        1357   67.08      Ehsan Hadadi                   IRI     21.01.85    5      Shanghai                 23.05.2010
+        1357   67.08      Andrius Gudzius                LTU     14.02.91    1      Kaunas                   29.06.2020
+        1357   67.08      Andrius Gudzius                LTU     14.02.91    2      Székesfehérvár           19.08.2020
+        1371   67.07      Lars Riedel                    GER     28.06.67    1      Budapest                 23.08.1998
+        1371   67.07      Michael Möllenbeck             GER     12.12.69    1      Halle                    11.05.2002
+        1371   67.07      Róbert Fazekas                 HUN     18.08.75    1      Madrid                   19.07.2003
+        1371   67.07      Julian Wruck                   AUS     06.07.91    q      Claremont                01.06.2013
+        1371   67.07      Piotr Malachowski              POL     07.06.83    2      Warszawa                 25.08.2013
+        1371   67.07      Piotr Malachowski              POL     07.06.83    2      Hengelo                  08.06.2014
+        1371   67.07      Philip Milanov                 BEL     06.07.91    1      Lokeren                  03.07.2016
+        1371   67.07      Daniel Ståhl                   SWE     27.08.92    q      Berlin                   07.08.2018
+        1371   67.07      Lukas Weißhaidinger            AUT     20.02.92    3      Tokyo                    31.07.2021
+        1371   67.07      Matthew Denny                  AUS     02.06.96    3      Rabat                    05.06.2022
+        1381   67.06      Markku Tuokko                  FIN     24.06.51    1      Helsinki                 14.08.1977
+        1381   67.06      Mac Wilkins                    USA     15.11.50    1      Oslo                     01.07.1980
+        1381   67.06      Ben Plucknett                  USA     13.04.54    2      Indianapolis             19.06.1983
+        1381   67.06      Mitch Crouser                  USA     30.12.57    1      Eugene                   02.08.1985
+        1381   67.06      Wolfgang Schmidt               GER     16.01.54    2      San José                 27.05.1989
+        1381   67.06      Attila Horváth                 HUN     28.07.67    1      Szombathely              12.10.1991
+        1381   67.06      Erik de Bruin                  NED     25.05.63    1      Hengelo                  20.06.1993
+        1381   67.06      Lars Riedel                    GER     28.06.67    1      Halle                    13.05.1995
+        1381   67.06      Virgilijus Alekna              LTU     13.02.72    3      Köln                     16.08.1996
+        1381   67.06      Andy Bloom                     USA     11.08.73    1      Eugene                   30.05.1999
+        1381   67.06      John Godina                    USA     31.05.72    2      Palo Alto                09.06.2001
+        1381   67.06      Mario Pestano                  ESP     08.04.78    2      Oordegem                 02.09.2004
+        1381   67.06      Piotr Malachowski              POL     07.06.83    1      Amsterdam                09.07.2016
+        1381   67.06      Mason Finley                   USA     07.10.90    2      Des Moines               24.06.2018
+        1395   67.05      Jarred Rome                    USA     21.12.76    1      Modesto                  05.05.2007
+        1395   67.05      Virgilijus Alekna              LTU     13.02.72    1      Genova                   17.07.2011
+        1395   67.05      Daniel Jasinski                GER     05.08.89    3      Rio de Janeiro           13.08.2016
+        1395   67.05      Philip Milanov                 BEL     06.07.91    4      Stockholm                18.06.2017
+        1399   67.04      Mac Wilkins                    USA     15.11.50    1      Firenze                  18.05.1976
+        1399   67.04      Mac Wilkins                    USA     15.11.50    1      Nice                     21.08.1977
+        1399   67.04      Wolfgang Schmidt               GER     16.01.54    1      Berlin                   14.06.1978
+        1399   67.04      Ken Stadel                     USA     19.02.52    1      Tempe                    05.04.1980
+        1399   67.04      Arthur Burns                   USA     19.07.54    2      Modesto                  16.05.1981
+        1399   67.04      Imrich Bugár                   CZE     14.04.55    1      Praha                    19.05.1984
+        1399   67.04      Yuriy Dumchev                  RUS     05.08.58    1      Moskva                   19.07.1984
+        1399   67.04      Jürgen Schult                  GER     11.05.60    1      Haniá                    22.05.1988
+        1399   67.04      Vaclovas Kidykas               LTU     17.10.61    1      Lappeenranta             09.07.1990
+        1399   67.04      Zoltán Kovagó                  HUN     10.04.79    2      Athínai                  23.08.2004
+        1399   67.04      Gerd Kanter                    EST     06.05.79    1      Türi                     21.06.2006
+        1399   67.04      Gerd Kanter                    EST     06.05.79    3      Athínai                  03.07.2006
+        1399   67.04      Robert Harting                 GER     18.10.84    1      Saint-Denis              06.07.2013
+        1399   67.04      Ehsan Hadadi                   IRI     21.01.85    1c     San Diego                14.04.2018
+        1399   67.04      Daniel Ståhl                   SWE     27.08.92    3      Oslo                     07.06.2018
+        1399   67.04      Daniel Ståhl                   SWE     27.08.92    1      Borås                    28.08.2021
+        1415   67.03      Gerd Kanter                    EST     06.05.79    1      Tartu                    05.06.2006
+        1415   67.03      Mauricio Ortega                COL     04.08.94    1      Lovelhe                  29.02.2020
+        1417   67.02      Imrich Bugár                   CZE     14.04.55    1      Praha                    21.09.1982
+        1417   67.02      Georgiy Kolnootchenko          BLR     07.05.59    2      Stuttgart                31.08.1986
+        1417   67.02      Stefan Fernholm                SWE     02.07.59    1      Ogden                    09.05.1987
+        1417   67.02      Romas Ubartas                  LTU     26.05.60    1      Schwechat                05.09.1990
+        1417   67.02      Attila Horváth                 HUN     28.07.67    1      São Paulo                19.05.1991
+        1417   67.02      Lars Riedel                    GER     28.06.67    1      Berlin                   27.08.1993
+        1417   67.02      Virgilijus Alekna              LTU     13.02.72    1      Potchefstroom            14.02.2000
+        1417   67.02      Zoltán Kovagó                  HUN     10.04.79    2      Gateshead                10.07.2010
+        1417   67.02      Robert Harting                 GER     18.10.84    1      Zürich                   08.09.2011
+        1417   67.02      Gerd Kanter                    EST     06.05.79    1      Zürich                   29.08.2013
+        1417   67.02      Andrius Gudzius                LTU     14.02.91    1      Randvere                 20.05.2018
+        1417   67.02      Simon Pettersson               SWE     03.01.94    2      Hässelby                 17.09.2020
+        1417   67.02      Andrius Gudzius                LTU     14.02.91    1      Vilnius                  29.06.2021
+        1417   67.02      Andrius Gudzius                LTU     14.02.91    1      Vilnius                  29.06.2021
+        1417   67.02      Matthew Denny                  AUS     02.06.96    4      Tokyo                    31.07.2021
+        1417   67.02      Claudio Romero                 CHI     10.07.00    1      Philadelphia             30.04.2022
+        1433   67.01      Frantz Kruger                  RSA     22.05.75    2      Tartu                    19.06.2001
+        1433   67.01      Mario Pestano                  ESP     08.04.78    1      Madrid                   05.07.2008
+        1433   67.01      Robert Harting                 GER     18.10.84    q      Zürich                   12.08.2014
+        1433   67.01      Andrius Gudzius                LTU     14.02.91    q      London                   04.08.2017
+        1433   67.01      Fedrick Dacres                 JAM     28.02.94    1      Paris                    30.06.2018
+        1438   67.00      Mac Wilkins                    USA     15.11.50    1      Nieder-Olm               09.09.1977
+        1438   67.00      Mac Wilkins                    USA     15.11.50    1      København                11.08.1978
+        1438   67.00      Al Oerter                      USA     19.09.36    1      Westfield                07.04.1979
+        1438   67.00      Ben Plucknett                  USA     13.04.54    1      Roma                     05.08.1980
+        1438   67.00      John Powell                    USA     25.06.47    1      San José                 19.09.1982
+        1438   67.00      John Powell                    USA     25.06.47    2      Walnut                   24.04.1983
+        1438   67.00      Juan Martinez Brito            CUB     17.05.58    3      Budapest                 20.08.1984
+        1438   67.00      Stefan Fernholm                SWE     02.07.59    1      Provo                    16.05.1985
+        1438   67.00      Arthur Burns                   USA     19.07.54    2      Westwood                 17.05.1986
+        1438   67.00      Juan Martinez Brito            CUB     17.05.58    1      La Habana                14.06.1986
+        1438   67.00      Vaclovas Kidykas               LTU     17.10.61    2      Tallinn                  21.06.1986
+        1438   67.00      Mac Wilkins                    USA     15.11.50    2      Salinas                  25.05.1988
+        1438   67.00      Mike Buncic                    USA     25.07.62    2      Modesto                  06.05.1989
+        1438   67.00      Juan Martinez Brito            CUB     17.05.58    1      La Habana                11.05.1990
+        1438   67.00      Michael Möllenbeck             GER     12.12.69    3      Jena                     05.06.1999
+        1438   67.00      Virgilijus Alekna              LTU     13.02.72    2      Madrid                   05.07.2008
+        1438   67.00      Gerd Kanter                    EST     06.05.79    1      Bergen                   21.06.2009
+        1438   67.00      Simon Pettersson               SWE     03.01.94    5      Eugene                   19.07.2022
