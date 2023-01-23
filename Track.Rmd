@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Discus Analysis"
 output: github_document
 ---
 
@@ -8,13 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-Loading in the data
 
-
-```{r}
-library(tidyverse)
-library(readr)
-```
 
 
 This function returns a list of boolean values indicating if the has digits (which it is supposed too) and using the summary function we can see the total number of cases. We are interested in the "FALSE" cases, and looking at the summary nearly.
@@ -22,10 +16,12 @@ This function returns a list of boolean values indicating if the has digits (whi
 For now my analysis will have to wait until the data can be fixed. With such a high number of cases manually cleaning each case is out of the question. So I am going to explore either finding a better way to load the data, or a way to shift the columns back and add the performance dates back in.
 
 ```{r}
+#imports
+library(readr)
 library(tidyverse)
-tester <- read.table("TrackDiscusData.txt", sep = "%", quote="\"")
+MensDiscUnformatted <- read.table("TrackDiscusData.txt", sep = "%", quote="\"")
 View(tester)
-MensDisc <- tidyr::separate(tester, V1,
+MensDisc <- tidyr::separate(MensDiscUnformatted, V1,
                          c("Empty", "Rank", "Distance", "Name", "Country", "Birthdate", "Worthless", "Location", "Date"),
                          sep = "\\s{2,}", ) %>%
   select(-Empty)
@@ -35,44 +31,79 @@ view(MensDisc)
 Let's get a rough count of the countries of origin
 
 ```{r}
+#imports
+library(forcats)
+
+#Creating a dataframe with just countries and the number of athletes that came out of them
 basicCountry <- MensDisc %>% distinct(Name, .keep_all = TRUE) %>% count(Country, sort = TRUE)
-ggplot(basicCountry, aes(x = Country, y = n, color = Country)) + 
+
+#Creating our barplot
+ggplot(basicCountry, aes(x = fct_reorder(Country, n), y = n, color = "pink")) + 
   geom_col() +
   scale_x_discrete(guide = guide_axis(n.dodge = 5)) +
-  labs(y= "Number of Athletes", x = "Country Code")
+  labs(y= "Number of Athletes", x = "Country Code") + 
+  coord_flip() + 
+  theme(legend.position="none")
+
 ```
-This is just a preliminary plot to give me an idea of how the distribution of the athletes country of origin. What the graph shows is that some countries clearly produce a majority of winning atheletes while other countries just have a few champions
+This is just a preliminary plot to give me an idea of how the distribution of the athletes country of origin. What the graph shows is that some countries clearly produce a majority of winning athletes while other countries just have a few champions
 
 Going forward I would like to investigate athletes countries year by year in separate graphs to see if certain countries started producing more or less champions over time
 
 ```{r}
-ForOther <- MensDisc %>% mutate(Year = substr(Date,7,10))
-```
-
-Now I have a new row that is just the year with the rest of the date stripped away so we can do a quick visualization to see how athlete performance changed over time
-
-```{r}
 library(lubridate)
-
+ForOther <- MensDisc %>% mutate(Year = substr(Date,7,10))
 Bday   <-parse_date_time2(ForOther$Birthdate, "dmy", cutoff_2000 = 15)
 Rday <-parse_date_time2(ForOther$Date, "dmY", cutoff_2000 = 20)
 Dif <-difftime(Rday, Bday, units = "weeks")
 Please <- as.integer(Dif/52)
 New <- ForOther %>% 
-  mutate(NewCol = as.integer(Please)) %>%
-  mutate(Distance = as.numeric(ForOther$Time))
-view(New)
-
-
+  mutate(NewCol = Please)
 
 ```
 
 Lets try to graph age and performance data!
 
 ```{r}
-ggplot(New, aes(x=NewCol, y=Time, color=Country)) + geom_point(alpha=0.3) + scale_y_discrete(guide = guide_axis(n.dodge = 7))
+ggplot(New, aes(x=NewCol, y=as.numeric(Distance)))  + geom_point(alpha=0.1) 
 ```
 
- Looking at the scatterplot it is evident that the best 
+Now that we have the graph we can see that men are most likely to perform at their BEST when between the ages of 25 to 28. However as we can there are still men almost a decade older who are still performing at a very high level. It is also interesting to know that athletes on the younger end of age spectrum 18-20 just don't seem to be able to hit the distances that men in their mid 20's are. Even more curious is the fact that these young men are being matched and sometimes outperformed by men almost double their age.
+
+```{r}
+#Imports
+library(rgeos)
+library(sf)
+library(countrycode)
+
+#Importing country coordinates
+mapData <- map_data("world")
+#Converting country codes to country names to match with the coordinate vector
+forMap <-basicCountry %>% mutate(region = countrycode(basicCountry$Country,"ioc","country.name")) 
+#Accounting for east and west germany not being covered by Countrycode library
+forMap[is.na(forMap)] <- "Germany"
+
+#Combining the coordinate dataframe with our main dataframe by region 
+mapData <- left_join(mapData, forMap, by="region")
+
+#Getting rid of extra countries out of new frame
+mapData1 <- mapData %>% filter(!is.na(mapData$n))
+#Removing non European countries from the new frame
+mapData2<-mapData1[!(mapData1$region=="United States" | mapData1$region=="Jamaica" | mapData1$region=="South Africa" | mapData1$region=="Cuba" | mapData1$region=="Bahamas" | mapData1$region=="Chile" | mapData1$region=="Ecuador" | mapData1$region=="Iran" | mapData1$region=="Nigeria" | mapData1$region=="Australia" | mapData1$region=="Canada" | mapData1$region=="Colombia"),]
+ 
+
+#Making the map
+map1 <- ggplot(mapData2, aes(x = long, y = lat, group=group)) + 
+  geom_polygon(aes(fill = n), color="black") +
+  coord_sf(xlim = c(-25,50), ylim = c(35,70), expand = FALSE) +
+  scale_fill_gradient(name = "Number of Athletes", low = "yellow", high = "red", na.value="grey50")
+
+map1
+
+```
+
+The purpose behind this visualization was to explore whether there was any potential correlation between the location of the European countries producing the most athletes however as we can see there seems to be no evident pattern. However we do have a very limited number of athletes from each country so if there was more data some kind of pattern could potentially become more evident. 
+
+If I were to look further into this issue I would try and investigate the GDP of each athletes corresponding country (In the year of their record setting performance) and see if a nations wealth is a potential indicator for success at discus
 
 
