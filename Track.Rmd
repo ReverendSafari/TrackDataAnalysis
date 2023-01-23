@@ -1,6 +1,9 @@
 ---
 title: "Discus Analysis"
-output: github_document
+author: "Safari Swanson"
+
+output::github_document:
+  theme: cerulean
 ---
 
 ```{r setup, include=FALSE}
@@ -8,27 +11,22 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-
-
-
-This function returns a list of boolean values indicating if the has digits (which it is supposed too) and using the summary function we can see the total number of cases. We are interested in the "FALSE" cases, and looking at the summary nearly.
-
-For now my analysis will have to wait until the data can be fixed. With such a high number of cases manually cleaning each case is out of the question. So I am going to explore either finding a better way to load the data, or a way to shift the columns back and add the performance dates back in.
-
 ```{r}
 #imports
 library(readr)
 library(tidyverse)
+
+#Importing and assigning our data to a dataframe
 MensDiscUnformatted <- read.table("TrackDiscusData.txt", sep = "%", quote="\"")
-View(tester)
+
+#Breaking up our condensed dataframe into it's respective columns
 MensDisc <- tidyr::separate(MensDiscUnformatted, V1,
                          c("Empty", "Rank", "Distance", "Name", "Country", "Birthdate", "Worthless", "Location", "Date"),
                          sep = "\\s{2,}", ) %>%
   select(-Empty)
-view(MensDisc)
 ```
 
-Let's get a rough count of the countries of origin
+Shown above is the importing of our plain text data, notice the quote="\"" which accounts for the apostrophes in the plain text which would mess up the data frame if not for this argument
 
 ```{r}
 #imports
@@ -46,12 +44,15 @@ ggplot(basicCountry, aes(x = fct_reorder(Country, n), y = n, color = "pink")) +
   theme(legend.position="none")
 
 ```
-This is just a preliminary plot to give me an idea of how the distribution of the athletes country of origin. What the graph shows is that some countries clearly produce a majority of winning athletes while other countries just have a few champions
 
-Going forward I would like to investigate athletes countries year by year in separate graphs to see if certain countries started producing more or less champions over time
+This is a plot just to get a vague idea of what countries are producing the most winning athletes. It is clear that the US and Germany are far beyond the rest of the countries. With some other European states still having multiple athletes, but not as significant of a number as Germany or the US.
+
+It is important to note that this is a generally small list of athletes so it should be kept in mind that there could be a lot of variance just caused simply by the small size of the dataset.
 
 ```{r}
+#imports
 library(lubridate)
+
 ForOther <- MensDisc %>% mutate(Year = substr(Date,7,10))
 Bday   <-parse_date_time2(ForOther$Birthdate, "dmy", cutoff_2000 = 15)
 Rday <-parse_date_time2(ForOther$Date, "dmY", cutoff_2000 = 20)
@@ -60,15 +61,17 @@ Please <- as.integer(Dif/52)
 New <- ForOther %>% 
   mutate(NewCol = Please)
 
+#Creating a scatterplot of our athletes age's and the distances they threw at that age
+ggplot(New, aes(x=NewCol, y=as.numeric(Distance))) +
+  geom_point(alpha=0.1) +
+  labs(y= "Distance", x = "Age")
+
 ```
 
-Lets try to graph age and performance data!
 
-```{r}
-ggplot(New, aes(x=NewCol, y=as.numeric(Distance)))  + geom_point(alpha=0.1) 
-```
+From this scatter plot we can see that athletes throw the best from age 26-29, however they don't just fall off fast. The decrease in performance seems more slow and gradual. Performance does seem to ramp up quickly when the athletes are are in their late teens and early twenties. There are almost no athletes performing at a serious level at the ages of 18, 19, and 20. 
 
-Now that we have the graph we can see that men are most likely to perform at their BEST when between the ages of 25 to 28. However as we can there are still men almost a decade older who are still performing at a very high level. It is also interesting to know that athletes on the younger end of age spectrum 18-20 just don't seem to be able to hit the distances that men in their mid 20's are. Even more curious is the fact that these young men are being matched and sometimes outperformed by men almost double their age.
+It is a very interesting point to mention that some athletes in their late thirties are still matching the distances being thrown by men nearly a decade their younger!
 
 ```{r}
 #Imports
